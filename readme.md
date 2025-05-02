@@ -13,14 +13,15 @@ ___Other skills___ > Linux, Windows, bash scripting, Firewalls, LVMs, Database s
 
 ### Go the extra mile <font size="2.8">| Experience</font>
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevOps | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
-> _Client - US biggest bank_ -  
+> _Client - US biggest bank_ -
+Working on Cloud Native Buildpacks tool, to automate the container image building without using Dockerfile.
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps IT Automation | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
-> Managing Kubernetes Platform Integration and Automation the build and deploy.  
+> Managed Kubernetes Platform Integration and Automation the build and deploy.  
 AWS Architect for build and deploy using Terraform (Multi Env Setup).  
 Automate Java and Angular Application build and deploy using GitHub Actions, GitHub, Jenkins, Bitbucket.  
 Automate Kubernetes application deployment using Helm, Argo CD, ArgoCD ApplicationSet, Argo HPA.  
-Implementing security aspects, using SAST tool - Fortify and GitHub Advance Security and DAST/IAST tool - Contrast Security.  
+Implemented security aspects, using SAST tool - Fortify and GitHub Advance Security and DAST/IAST tool - Contrast Security.  
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
 AKS Cluster setup using Terraform and Azure DevOps.
 
