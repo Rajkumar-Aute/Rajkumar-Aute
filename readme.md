@@ -3,7 +3,7 @@ Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](ht
 <img width="" height="10" src="./image/other/email.gif"> [RajkumarAute@Gmail.com](mailto:Rajkumar.Aute@gmail.com){:target="_blank"} ~
 <img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/India){:target="_blank"}
 
-> Geek since childhood. Started career in 2012 as IT engineer. & in 2017 switched to _Cloud and DevOps technology_ as _Azure DevOps, GitHub Actions & DevSecOps Engineer, AWS Architect, Kubernetes & Terraform._ Proficient in Design, Implementation and Delivery of Websites & Applications.
+> Geek since childhood. Started career in 2012 as IT engineer. & in 2017 switched to _Cloud and DevOps technology_ as _Azure DevOps, GitHub Actions & DevSecOps Engineer, AWS Solution Architect, Kubernetes & Terraform._ Proficient in Design, Implementation and Delivery of Websites & Applications.
 
 ### Bag of Tricks <font size="2.8">| Skills</font>
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Argo CD, Git, Azure DevOps, GitHub Actions, Jenkins.  
@@ -12,22 +12,25 @@ ___AWS  & Azure___ > Compute, Storage, DBs, Network & other services such as ECS
 ___Other skills___ > Linux, Windows, bash scripting, Firewalls, LVMs, Database servers, virtualization technologies, ITSM, Agile, Scrum.
 
 ### Go the extra mile <font size="2.8">| Experience</font>
-### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevOps | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
+### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevOps Solution Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > _Client - US biggest bank_ -  
 Working on Cloud Native Buildpacks tool, to automate the container image building without using Dockerfile.
+Managing Kubernetes On prem and AWS EKS clusters.
+Automatic the build and deploy CI/CD pipeline using Jenkins.
+Automatic the Infrastructure deployment using Terrarform.  
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps IT Automation | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
 > Managed Kubernetes Platform Integration and Automation the build and deploy.  
-AWS Architect for build and deploy using Terraform (Multi Env Setup).  
+AWS Solution Architect for build and deploy using Terraform (Multi Env Setup).  
 Automate Java and Angular Application build and deploy using GitHub Actions, GitHub, Jenkins, Bitbucket.  
 Automate Kubernetes application deployment using Helm, Argo CD, ArgoCD ApplicationSet, Argo HPA.  
 Implemented security aspects, using SAST tool - Fortify and GitHub Advance Security and DAST/IAST tool - Contrast Security.  
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
 AKS Cluster setup using Terraform and Azure DevOps.
 
-### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
+### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Solution Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
 > Lead for Application migration to AWS cloud using Terraform and Azure DevOps.  
-Lead Cloud Architect Design and Build secure cloud infra by implementing Security best practices   
+Lead Cloud Solution Architect Design and Build secure cloud infra by implementing Security best practices   
 Handled AWS L2 production issues. & Contributed to build CI/CD pipeline, Git, Kubernetes & Terraform.
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
