@@ -3,7 +3,7 @@ Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](ht
 <img width="" height="10" src="./image/other/email.gif"> [RajkumarAute@Gmail.com](mailto:Rajkumar.Aute@gmail.com){:target="_blank"} ~
 <img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/India){:target="_blank"}
 
-> Geek since childhood. Started career in 2012 as IT engineer. & in 2017 switched to _Cloud and DevOps technology_ as _Azure DevOps, GitHub Actions & DevSecOps Engineer, AWS Solution Architect, Kubernetes & Terraform._ Proficient in Design, Implementation and Delivery of Websites & Applications.
+> Geek since childhood, I began my career as an IT Engineer in 2012. In 2017 I transitioned to _Cloud and DevOps technologies_ specializing in _AWS Solution Architect, Kubernetes, Terraform, GitHub Actions, DevSecOps and end-to-end CI/CD Pipeline development._ I bring strong expertise in Designing, Implementing and managing Cloud native infrastructure and automation solutions.
 
 ### Bag of Tricks <font size="2.8">| Skills</font>
 > ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Argo CD, Git, Azure DevOps, GitHub Actions, Jenkins.  
@@ -12,18 +12,18 @@ ___AWS  & Azure___ > Compute, Storage, DBs, Network & other services such as ECS
 ___Other skills___ > Linux, Windows, bash scripting, Firewalls, LVMs, Database servers, virtualization technologies, ITSM, Agile, Scrum.
 
 ### Go the extra mile <font size="2.8">| Experience</font>
-### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevOps Solution Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
+### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > _Client - US biggest bank_ -  
 Working on Cloud Native Buildpacks tool, to automate the container image building without using Dockerfile.  
 Managing Kubernetes On prem and AWS EKS clusters.  
 Automatic the build and deploy CI/CD pipeline using Jenkins.  
 Automatic the Infrastructure deployment using Terrarform.
 
-### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps IT Automation | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
+### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
 > Managed Kubernetes Platform Integration and Automation the build and deploy.  
 AWS Solution Architect for build and deploy using Terraform (Multi Env Setup).  
 Automate Java and Angular Application build and deploy using GitHub Actions, GitHub, Jenkins, Bitbucket.  
-Automate Kubernetes application deployment using Helm, Argo CD, ArgoCD ApplicationSet, Argo HPA.  
+Automate Kubernetes application deployment using Argo CD, Argo HPA.  
 Implemented security aspects, using SAST tool - Fortify and GitHub Advance Security and DAST/IAST tool - Contrast Security.  
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
 AKS Cluster setup using Terraform and Azure DevOps.
@@ -71,4 +71,4 @@ Handled Windows DC Servers, Routers, Switches, Users & Groups.
 [3i Infotech](http://www.3i-infotech.com) ~ Appreciated by the clients for implementing best practices in IT service.  
 National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
 
-###### Résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} | [linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
+###### For latest Résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} | [linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
