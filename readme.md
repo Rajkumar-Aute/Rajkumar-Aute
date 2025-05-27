@@ -34,7 +34,7 @@ Lead Cloud Solution Architect Design and Build secure cloud infra by implementin
 Handled AWS L2 production issues. & Contributed to build CI/CD pipeline, Git, Kubernetes & Terraform.
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
-> Designed & built the AWS & Azure Cloud infra & Addressed AWS L3 issues & security concerns using AWS Security Hub and AWS WAF. As well as Azure L1.  
+> Designed & built the AWS Cloud infra & Addressed AWS L3 issues & security concerns using AWS Security Hub and AWS WAF.  
 Contributed to Built & Automate the Kubernetes, AWS EKS, ECS, & Docker used to build & migrate containerized applications. & CI/CD pipeline using  Jenkins, buddy.works, Git & Terraform used to build cloud infra.  
 
 ### <img width="" height="14" src="./image/org/lera.png"> [_Lera Technologies_](http://www.lera.us){:target="_blank"} _<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>_ <font size="1">Sep 2019 - Apr 2020.</font>  
