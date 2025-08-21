@@ -3,21 +3,21 @@ Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](ht
 <img width="" height="10" src="./image/other/email.gif"> [RajkumarAute@Gmail.com](mailto:Rajkumar.Aute@gmail.com){:target="_blank"} ~
 <img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/India){:target="_blank"}
 
-> Geek since childhood, I began my career as an IT Engineer in 2012. In 2017 I transitioned to _Cloud and DevOps technologies_ specializing in _AWS Solution Architect, Kubernetes, Terraform, GitHub Actions, DevSecOps and end-to-end CI/CD Pipeline development._ I bring strong expertise in Designing, Implementing and managing Cloud native infrastructure and automation solutions.
+> Geek since childhood, I began my career as an IT Engineer in 2012. & In 2017 I transitioned to _Cloud and DevOps technologies_ specializing in _AWS Solution Architect, Kubernetes, Terraform, GitHub Actions, DevSecOps and end-to-end CI/CD Pipeline development._ I bring strong expertise in Designing, Implementing and managing Cloud native infrastructure and DevSecOps automation solutions.
 
 ### Bag of Tricks <font size="2.8">| Skills</font>
-> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, Argo CD, Git, Azure DevOps, GitHub Actions, Jenkins.  
+> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, ArgoCD, Git, GitHub Actions, Azure DevOps, Jenkins.  
 ___Cyber Security Tools___ > CheckOV, GitHub Advance Security, AWS Security Hub, Fortify.  
 ___AWS  & Azure___ > Compute, Storage, DBs, Network & other services such as ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other services.  
-___Other skills___ > Linux, Windows, bash scripting, Firewalls, LVMs, Database servers, virtualization technologies, ITSM, Agile, Scrum.
+___Other skills___ > Linux, Windows, BASH Scripting, Firewalls, LVMs, Database servers, Virtualization, ITSM, Agile, Scrum, SDLC/Secure-SDLC.
 
 ### Go the extra mile <font size="2.8">| Experience</font>
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > _Client - US biggest bank_ -  
-Working on Cloud Native Buildpacks tool, to automate the container image building without using Dockerfile.  
-Managing Kubernetes On prem and AWS EKS clusters.  
-Automatic the build and deploy CI/CD pipeline using Jenkins.  
 Automatic the Infrastructure deployment using Terrarform.
+Writing basic Lambda functions in Python
+Automatic the build and deploy CI/CD pipeline using Jenkins.  
+Worked on Cloud Native Buildpacks tool, to automate the container image building without using Dockerfile.  
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
 > Managed Kubernetes Platform Integration and Automation the build and deploy.  
