@@ -14,8 +14,8 @@ ___Other skills___ > Linux, Windows, BASH Scripting, Firewalls, LVMs, Database s
 ### Go the extra mile <font size="2.8">| Experience</font>
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > _Client - US biggest bank_ -  
-Automatic the Infrastructure deployment using Terrarform.
-Writing basic Lambda functions in Python
+Automatic the Infrastructure deployment using Terrarform.  
+Writing basic Lambda functions in Python.  
 Automatic the build and deploy CI/CD pipeline using Jenkins.  
 Worked on Cloud Native Buildpacks tool, to automate the container image building without using Dockerfile.  
 
