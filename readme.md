@@ -25,6 +25,8 @@ AWS Solution Architect for build and deploy using Terraform (Multi Env Setup).
 Automate Java and Angular Application build and deploy using GitHub Actions, GitHub, Jenkins, Bitbucket.  
 Automate Kubernetes application deployment using Argo CD, Argo HPA.  
 Implemented security aspects, using SAST tool - Fortify and GitHub Advance Security and DAST/IAST tool - Contrast Security.  
+Sole responsible for Production Deployments and Good in fixing issues in Production environment.  
+Well verst with Production applications deployment process.  
 Build and automate Azure Kubernetes Service infra for Data analytics platform.  
 AKS Cluster setup using Terraform and Azure DevOps.
 
