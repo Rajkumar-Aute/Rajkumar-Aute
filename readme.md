@@ -1,73 +1,72 @@
 <!--- <abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Cloud based Kubernetes, EKS)</font> --->
-Catch up <img width="" height="10" src="./image/other/call.gif"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
+<img width="" height="10" src="./image/other/call.gif"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
 <img width="" height="10" src="./image/other/email.gif"> [RajkumarAute@Gmail.com](mailto:Rajkumar.Aute@gmail.com){:target="_blank"} ~
 <img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/India){:target="_blank"}
 
-> Geek since childhood, I began my career as an IT Engineer in 2012. & In 2017 I transitioned to _Cloud and DevOps technologies_ specializing in _AWS Solution Architect, Kubernetes, Terraform, GitHub Actions, DevSecOps and end-to-end CI/CD Pipeline development._ I bring strong expertise in Designing, Implementing and managing Cloud native infrastructure and DevSecOps automation solutions.
+> __Cloud & DevSecOps Engineer__ with 13+ years of IT experience, specializing in __AWS, Kubernetes, Terraform, GitHub Actions, and CI/CD automation__. Skilled in designing and automating __secure cloud-native infrastructure__ across AWS and Azure, with a proven track record of __optimizing deployments, reducing costs, and strengthening security compliance__ for enterprise clients.
 
-### Bag of Tricks <font size="2.8">| Skills</font>
-> ___DevOps Tools___ > Kubernetes, EKS, AKS, Docker, Terraform, ArgoCD, Git, GitHub Actions, Azure DevOps, Jenkins.  
-___Cyber Security Tools___ > CheckOV, GitHub Advance Security, AWS Security Hub, Fortify.  
-___AWS  & Azure___ > Compute, Storage, DBs, Network & other services such as ECS, EKS, RDS, S3, VPC, CDN, Redis, Route53 & other services.  
-___Languages___ > Basic Bash and Python Scripting, Markdown.  
-___Other skills___ > Linux, Windows, Firewalls, LVMs, Database servers, Virtualization, ITSM, Agile, Scrum, SDLC/Secure-SDLC.
+### Core Skills
+> ___Cloud Platforms:___ AWS (EKS, ECS, RDS, S3, VPC, Route53), Azure (AKS, DevOps)  
+___DevOps Tools:___ Kubernetes, Docker, Terraform, Jenkins, ArgoCD, Kustomize GitHub Actions, Azure DevOps.  
+___Security Tools:___ Checkov, Fortify, AWS Security Hub, GitHub Advanced Security
+___Languages & Scripting:___ Basic Shell/Bash and Python Scripting, Markdown.  
+___Other:___ Linux, Windows, Databases, ITSM, Agile/Scrum, SDLC/Secure-SDLC   
 
-### Go the extra mile <font size="2.8">| Experience</font>
+
+### Experiance
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > _Client - US biggest bank_ -  
-Automatic the Infrastructure deployment using Terrarform.  
-Writing basic Lambda functions in Python.  
-Automatic the build and deploy CI/CD pipeline using Jenkins.  
-Worked on Cloud Native Buildpacks tool, to automate the container image building without using Dockerfile.  
+Automated infrastructure provisioning using __Terraform__, reducing setup time significantly.  - Developed basic __Python Lambda functions__ for automation tasks.  
+Built and automated __CI/CD pipelines using Jenkins__, streamlining application delivery.  
+Implemented __Cloud Native Buildpacks__ to generate container images without Dockerfiles.  
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
-> Managed Kubernetes Platform Integration and Automation the build and deploy.  
-AWS Solution Architect for build and deploy using Terraform (Multi Env Setup).  
-Automate Java and Angular Application build and deploy using GitHub Actions, GitHub, Jenkins, Bitbucket.  
-Automate Kubernetes application deployment using Argo CD, Argo HPA.  
-Implemented security aspects, using SAST tool - Fortify and GitHub Advance Security and DAST/IAST tool - Contrast Security.  
-Sole responsible for Production Deployments and Good in fixing issues in Production environment.  
-Well verst with Production applications deployment process.  
-Build and automate Azure Kubernetes Service infra for Data analytics platform.  
-AKS Cluster setup using Terraform and Azure DevOps.
+> Architected AWS multi-environment infrastructure using __Terraform__.  
+Managed Kubernetes Platform Integration and Automation the build and deploy.  
+Architected AWS multi-environment infrastructure using __Terraform__.  
+Automated Java & Angular app pipelines with __GitHub Actions, Jenkins, Bitbucket__.  
+Solely managed __production deployments__, ensuring high availability and rapid issue resolution.  
+Designed and automated __Azure AKS clusters__ using Terraform & Azure DevOps.  
 
 ### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Solution Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
-> Lead for Application migration to AWS cloud using Terraform and Azure DevOps.  
-Lead Cloud Solution Architect Design and Build secure cloud infra by implementing Security best practices   
-Handled AWS L2 production issues. & Contributed to build CI/CD pipeline, Git, Kubernetes & Terraform.
+> Led __application migration to AWS__ using Terraform and Azure DevOps.  
+Designed & implemented __secure cloud infrastructure__ with best practices.  
+Supported __AWS L2 production issues__ and optimized CI/CD pipelines.  
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
-> Designed & built the AWS Cloud infra & Addressed AWS L3 issues & security concerns using AWS Security Hub and AWS WAF.  
-Contributed to Built & Automate the Kubernetes, AWS EKS, ECS, & Docker used to build & migrate containerized applications. & CI/CD pipeline using  Jenkins, buddy.works, Git & Terraform used to build cloud infra.  
+> Designed & deployed __AWS cloud infrastructure__, addressing L3 issues.  
+Automated containerized applications on __EKS, ECS, Docker__.  
+Built __CI/CD pipelines__ using Jenkins, buddy.works, Git, and Terraform.  
 
 ### <img width="" height="14" src="./image/org/lera.png"> [_Lera Technologies_](http://www.lera.us){:target="_blank"} _<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>_ <font size="1">Sep 2019 - Apr 2020.</font>  
-> Designed and built cloud infra and Addressed AWS L2 & Azure L1 production issues.  
-Contributed to Built & automate CI/CD pipeline, Git & Jenkins used to build a containerized application, virtualization, & Azure AD.
+> Designed & implemented __cloud infrastructure__ for AWS & Azure.  
+- Automated CI/CD pipelines with __Git & Jenkins__.  
+- Managed __Azure AD, virtualization__, and security best practices.  
 
 ### <img width="" height="14" src="./image/org/wla.png"> [_Wonderla Holidays Ltd._](http://www.wonderla.com){:target="_blank"} _<font size="2">Executive IT | AWS, Linux | Hyderabad.</font>_ <font size="1">Aug 2018 - Aug 2019</font>
 > Administrated the Cloud infra & Accomplished various Cloud Services  
 Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted on VMWare ESXi & AWS cloud.
 
 ### <!--- <img width="" height="18" src="./image/org/3i.png"> --->[_3i Infotech_](http://www.3i-infotech.com){:target="_blank"} _<font size="2"> <!---Engineer | AWS, Linux | Hyderabad.---></font>_ <font size="1"> <!---Mar 2015 - Jul 2018 ---></font> | <!--- <img width="" height="20" src="./image/org/infoservice.jpg"> ---> [_Info Services_](http://ibmesp.com){:target="_blank"}<!---_<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>_ <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> | <!--- <img width="" height="15" src="./image/org/kaizen.png"> ---> [_Kaizen IT Services_](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} _<font size="2"> Engineer</font>_ <font size="1">Mar 2012 - <!---Mar 2012 - July 2014---> Jul 2018</font> <font size="1"> </font>  
-> Handled Linux & DB servers on Cloud. ADDC, Users & Groups, File & Print Sharing.  
-Handled Windows DC Servers, Routers, Switches, Users & Groups.
+> Managed Linux, DB, and Windows DC servers.  
+Handled __network infrastructure, AD, routers, switches, and user management__.  
 
 ### Learning curve <font size="2.8">| Certifications</font>
-> <img width="" height="14" src="./image/cert/cka.svg"> [**Certified Kubernetes Administrator (CKA)**](https://www.credly.com/badges/0dee1521-344c-4602-8f7a-a59983613b8b/public_url){:target="_blank"}<font size="1"> ~ Dec 2022 - Dec 2025</font>  
-<img width="" height="14" src="./image/cert/AWS_Architect_Associate.png"> [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019 - Oct 2022</font>  
-<img width="" height="14" src="./image/cert/azure-administrator-associate.png"> [**Microsoft Certified Azure Administrator Associate**](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021 - Jan 2023</font>  
-<img width="" height="14" src="./image/cert/DevSecOps-Essentials.png"> [**IBM DevSecOps Essentials**](https://www.credly.com/badges/e19cb742-c05c-40d8-9d2e-979a92a4fedb/public_url){:target="_blank"}   
-<img width="" height="14" src="./image/cert/redhat.png"> [**Red Hat Certified Engineer**](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<!--- <font size="1"> ~ Jul 2018 - Jul 2021</font> --->  
-[**Many more list of certifications click here**](https://www.credly.com/users/rajkumar-aute/badges){:target="_blank"}  
+> <img width="" height="14" src="./image/cert/cka.svg"> [__Certified Kubernetes Administrator (CKA)__](https://www.credly.com/badges/0dee1521-344c-4602-8f7a-a59983613b8b/public_url){:target="_blank"}<font size="1"> ~ Dec 2022 - Dec 2025</font>  
+<img width="" height="14" src="./image/cert/AWS_Architect_Associate.png"> [__AWS Certified Solutions Architect – Associate__](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019 - Oct 2022</font>  
+<img width="" height="14" src="./image/cert/azure-administrator-associate.png"> [__Microsoft Certified Azure Administrator Associate__](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021 - Jan 2023</font>  
+<img width="" height="14" src="./image/cert/DevSecOps-Essentials.png"> [__IBM DevSecOps Essentials__](https://www.credly.com/badges/e19cb742-c05c-40d8-9d2e-979a92a4fedb/public_url){:target="_blank"}   
+<img width="" height="14" src="./image/cert/redhat.png"> [__Red Hat Certified Engineer__](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<!--- <font size="1"> ~ Jul 2018 - Jul 2021</font> --->  
+[__Many more list of certifications click here__](https://www.credly.com/users/rajkumar-aute/badges){:target="_blank"}  
 
 
-### By the book <font size="2.8">| Education</font>
->**PGDCA [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}** with 62.16% in 2016  
-**Bachelor of Commerce [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}** with 69.84% in 2013  
-**[Karnataka PUE Board Bangalore](https://pue.karnataka.gov.in){:target="_blank"} 10+2** with 49% in 2009  
-**[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC** with 47.84% in 2005
+### Education
+>__PGDCA [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}__ with 62.16% in 2016  
+__Bachelor of Commerce [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}__ with 69.84% in 2013  
+__[Karnataka PUE Board Bangalore](https://pue.karnataka.gov.in){:target="_blank"} 10+2__ with 49% in 2009  
+__[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC__ with 47.84% in 2005
 
-#### Win-Win <font size="2">| Honors & Awards</font>
+#### Honors & Awards
 >[IBM](https://www.ibm.com)  ~ 5 x Star and 1 x Super Star awarded and got appreciation by client for extended production support.  
 [TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
 [WHL](http://www.wonderla.com) ~ Appreciated by the VP IT for implementing automation.  
