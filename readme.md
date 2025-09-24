@@ -6,17 +6,18 @@
 > __Cloud & DevSecOps Engineer__ with 13+ years of IT experience, specializing in __AWS, Kubernetes, Terraform, GitHub Actions, and CI/CD automation__. Skilled in designing and automating __secure cloud-native infrastructure__ across AWS and Azure, with a proven track record of __optimizing deployments, reducing costs, and strengthening security compliance__ for enterprise clients.
 
 ### Core Skills
-> ___Cloud Platforms:___ AWS (EKS, ECS, RDS, S3, VPC, Route53), Azure (AKS, DevOps)  
+> ___Cloud Platforms:___ AWS (EKS, ECS, RDS, S3, VPC, Route53), Azure (AKS, DevOps).  
 ___DevOps Tools:___ Kubernetes, Docker, Terraform, Jenkins, ArgoCD, Kustomize GitHub Actions, Azure DevOps.  
-___Security Tools:___ Checkov, Fortify, AWS Security Hub, GitHub Advanced Security
+___Security Tools:___ Checkov, Fortify, AWS Security Hub, GitHub Advanced Security.  
 ___Languages & Scripting:___ Basic Shell/Bash and Python Scripting, Markdown.  
-___Other:___ Linux, Windows, Databases, ITSM, Agile/Scrum, SDLC/Secure-SDLC   
+___Other:___ Linux, Windows, Databases, ITSM, Agile/Scrum, SDLC/Secure-SDLC.   
 
 
 ### Experiance
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
-> _Client - US biggest bank_ -  
-Automated infrastructure provisioning using __Terraform__, reducing setup time significantly.  - Developed basic __Python Lambda functions__ for automation tasks.  
+> _Client - US biggest bank_  
+Automated infrastructure provisioning using __Terraform__, reducing setup time significantly.  
+Developed basic __Python Lambda functions__ for automation tasks.  
 Built and automated __CI/CD pipelines using Jenkins__, streamlining application delivery.  
 Implemented __Cloud Native Buildpacks__ to generate container images without Dockerfiles.  
 
@@ -40,8 +41,8 @@ Built __CI/CD pipelines__ using Jenkins, buddy.works, Git, and Terraform.
 
 ### <img width="" height="14" src="./image/org/lera.png"> [_Lera Technologies_](http://www.lera.us){:target="_blank"} _<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>_ <font size="1">Sep 2019 - Apr 2020.</font>  
 > Designed & implemented __cloud infrastructure__ for AWS & Azure.  
-- Automated CI/CD pipelines with __Git & Jenkins__.  
-- Managed __Azure AD, virtualization__, and security best practices.  
+Automated CI/CD pipelines with __Git & Jenkins__.  
+Managed __Azure AD, virtualization__, and security best practices.  
 
 ### <img width="" height="14" src="./image/org/wla.png"> [_Wonderla Holidays Ltd._](http://www.wonderla.com){:target="_blank"} _<font size="2">Executive IT | AWS, Linux | Hyderabad.</font>_ <font size="1">Aug 2018 - Aug 2019</font>
 > Administrated the Cloud infra & Accomplished various Cloud Services  
