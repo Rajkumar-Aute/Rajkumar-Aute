@@ -1,12 +1,18 @@
 <!--- <abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Cloud based Kubernetes, EKS)</font> --->
-<img width="" height="10" src="./image/other/call.gif"> [9945571886](https://wa.me/+919945571886){:target="_blank"} ~
-<img width="" height="10" src="./image/other/email.gif"> [RajkumarAute@Gmail.com](mailto:Rajkumar.Aute@gmail.com){:target="_blank"} ~
-<img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/India){:target="_blank"}
+<img width="" height="10" src="./image/other/call.gif"> [9945571886](https://wa.me/+919945571886){:target="_blank"} |
+<img width="" height="10" src="./image/other/email.gif"> [RajkumarAute@Gmail.com](mailto:Rajkumar.Aute@gmail.com){:target="_blank"} |
+<img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/India){:target="_blank"} |
+<img width="" height="10" src="./image/other/linkedin.png"> [linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
+<img width="" height="10" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
-> __Cloud & DevSecOps Engineer__ with 13+ years of IT experience, specializing in __AWS, Kubernetes, Terraform, GitHub Actions, and CI/CD automation__. Skilled in designing and automating __secure cloud-native infrastructure__ across AWS and Azure, with a proven track record of __optimizing deployments, reducing costs, and strengthening security compliance__ for enterprise clients.
+###  Cloud & DevSecOps Engineer | AWS | Kubernetes | Terraform | CI/CD
+> Cloud & DevSecOps Engineer with 13+ years of IT experience delivering secure, scalable, and automated cloud
+ solutions across AWS and Azure. Expert in infrastructure as code, Kubernetes orchestration, CI/CD automation,
+ and cloud security, with a strong record of reducing deployment times, improving cost efficiency, and ensuring
+ compliance for enterprise clients.
 
 ### Core Skills
-> ___Cloud Platforms:___ AWS (EKS, ECS, RDS, S3, VPC, Route53), Azure (AKS, DevOps).  
+> ___Cloud Platforms:___ AWS (EKS, ECS, RDS, S3, VPC, Route53), Azure (AKS).  
 ___DevOps Tools:___ Kubernetes, Docker, Terraform, Jenkins, ArgoCD, Kustomize GitHub Actions, Azure DevOps.  
 ___Security Tools:___ Checkov, Fortify, AWS Security Hub, GitHub Advanced Security.  
 ___Languages & Scripting:___ Basic Shell/Bash and Python Scripting, Markdown.  
@@ -64,9 +70,10 @@ Handled __network infrastructure, AD, routers, switches, and user management__.
 ### Education
 >__PGDCA [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}__ with 62.16% in 2016  
 __Bachelor of Commerce [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}__ with 69.84% in 2013  
+<!---
 __[Karnataka PUE Board Bangalore](https://pue.karnataka.gov.in){:target="_blank"} 10+2__ with 49% in 2009  
 __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC__ with 47.84% in 2005
-
+--->
 #### Honors & Awards
 >[IBM](https://www.ibm.com)  ~ 5 x Star and 1 x Super Star awarded and got appreciation by client for extended production support.  
 [TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
@@ -74,4 +81,4 @@ __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10
 [3i Infotech](http://www.3i-infotech.com) ~ Appreciated by the clients for implementing best practices in IT service.  
 National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
 
-###### For latest Résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} | [linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
+###### For latest Résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} 
