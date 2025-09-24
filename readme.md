@@ -29,8 +29,7 @@ Implemented __Cloud Native Buildpacks__ to generate container images without Doc
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
 > Architected AWS multi-environment infrastructure using __Terraform__.  
-Managed Kubernetes Platform Integration and Automation the build and deploy.  
-Architected AWS multi-environment infrastructure using __Terraform__.  
+Managed __Kubernetes__ Platform Integration and Automation the build and deploy.  
 Automated Java & Angular app pipelines with __GitHub Actions, Jenkins, Bitbucket__.  
 Solely managed __production deployments__, ensuring high availability and rapid issue resolution.  
 Designed and automated __Azure AKS clusters__ using Terraform & Azure DevOps.  
