@@ -74,6 +74,7 @@ __Bachelor of Commerce [Gulbarga University](https://www.gug.ac.in/){:target="_b
 __[Karnataka PUE Board Bangalore](https://pue.karnataka.gov.in){:target="_blank"} 10+2__ with 49% in 2009  
 __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC__ with 47.84% in 2005
 --->
+
 #### Honors & Awards
 >[IBM](https://www.ibm.com)  ~ 5 x Star and 1 x Super Star awarded and got appreciation by client for extended production support.  
 [TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
