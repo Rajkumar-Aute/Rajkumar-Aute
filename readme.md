@@ -2,21 +2,21 @@
 <img width="" height="10" src="./image/other/call.gif"> [9945571886](https://wa.me/+919945571886){:target="_blank"} |
 <img width="" height="10" src="./image/other/email.gif"> [RajkumarAute@Gmail.com](mailto:Rajkumar.Aute@gmail.com){:target="_blank"} |
 <img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/India){:target="_blank"} |
-<img width="" height="10" src="./image/other/linkedin.png"> [linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
-<img width="" height="10" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
+<img width="" height="12" src="./image/other/linkedin.png"> [linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
+<img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
 ###  Cloud & DevSecOps Engineer | AWS | Kubernetes | Terraform | CI/CD
 > Cloud & DevSecOps Engineer with 13+ years of IT experience delivering secure, scalable, and automated cloud
- solutions across AWS and Azure. Expert in infrastructure as code, Kubernetes orchestration, CI/CD automation,
+ solutions across AWS and Azure. Expert in infrastructure as code, Kubernetes orchestration, Jenkins, GitHub Actions for CI/CD automation,
  and cloud security, with a strong record of reducing deployment times, improving cost efficiency, and ensuring
  compliance for enterprise clients.
 
 ### Core Skills
-> ___Cloud Platforms:___ AWS (EKS, ECS, RDS, S3, VPC, Route53), Azure (AKS).  
-___DevOps Tools:___ Kubernetes, Docker, Terraform, Jenkins, ArgoCD, Kustomize GitHub Actions, Azure DevOps.  
+> ___Cloud Platforms:___ AWS (EKS, ECS, EC2, Auto Scaling, IAM, RDS, DynamoDB, S3, EFS, VPC, ELB, Route53, Certificate Manager, and some other services), Azure (AKS).  
+___DevOps Tools:___ Kubernetes, ArgoCD, Kustomize, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps.  
 ___Security Tools:___ Checkov, Fortify, AWS Security Hub, GitHub Advanced Security.  
 ___Languages & Scripting:___ Basic Shell/Bash and Python Scripting, Markdown.  
-___Other:___ Linux, Windows, Databases, ITSM, Agile/Scrum, SDLC/Secure-SDLC.   
+___Other:___ Linux, Windows, Databases, ITSM, Agile Scrum, SDLC/Secure-SDLC.   
 
 
 ### Experiance
