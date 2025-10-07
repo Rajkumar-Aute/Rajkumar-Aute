@@ -25,14 +25,13 @@ ___Other:___ Linux, Windows, Databases, ITSM, Agile Scrum, SDLC/Secure-SDLC.
 Automated infrastructure provisioning using __Terraform__, reducing setup time significantly.  
 Developed basic __Python Lambda functions__ for automation tasks.  
 Built and automated __CI/CD pipelines using Jenkins__, streamlining application delivery.  
-Implemented __Cloud Native Buildpacks__ to generate container images without Dockerfiles.  
+Implemented __Cloud Native Buildpacks__ to generate container images without Dockerfile.  
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
 > Architected AWS multi-environment infrastructure using __Terraform__.  
-Managed __Kubernetes__ Platform Integration and Automation the build and deploy.  
-Automated Java & Angular app pipelines with __GitHub Actions, Jenkins, Bitbucket__.  
+Managed __EKS Kubernetes__ Platform Integration and Automation the build and deploy the applications.  
+Designed and Automated Java & Angular app pipelines with __GitHub Actions, Jenkins, Bitbucket__.  
 Solely managed __production deployments__, ensuring high availability and rapid issue resolution.  
-Designed and automated __Azure AKS clusters__ using Terraform & Azure DevOps.  
 
 ### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Solution Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
 > Led __application migration to AWS__ using Terraform and Azure DevOps.  
@@ -41,7 +40,8 @@ Supported __AWS L2 production issues__ and optimized CI/CD pipelines.
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
 > Designed & deployed __AWS cloud infrastructure__, addressing L3 issues.  
-Automated containerized applications on __EKS, ECS, Docker__.  
+Migrated and Automated containerized applications to __EKS, ECS, Docker__.  
+Worked on multiple web hosting engines.  
 Built __CI/CD pipelines__ using Jenkins, buddy.works, Git, and Terraform.  
 
 ### <img width="" height="14" src="./image/org/lera.png"> [_Lera Technologies_](http://www.lera.us){:target="_blank"} _<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>_ <font size="1">Sep 2019 - Apr 2020.</font>  
