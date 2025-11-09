@@ -11,7 +11,7 @@
  and cloud security, with a strong record of reducing deployment times, improving cost efficiency, and ensuring
  compliance for enterprise clients.
 
-### Core Skills
+### Skills
 > ___Cloud Platforms:___ AWS (EKS, ECS, EC2, Auto Scaling, IAM, RDS, DynamoDB, S3, EFS, VPC, ELB, Route53, Certificate Manager, and some other services), Azure (AKS).  
 ___DevOps Tools:___ Kubernetes, ArgoCD, Kustomize, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps.  
 ___Security Tools:___ Checkov, Fortify, AWS Security Hub, GitHub Advanced Security.  
@@ -19,7 +19,7 @@ ___Languages & Scripting:___ Basic Shell/Bash and Python Scripting, Markdown.
 ___Other:___ Linux, Windows, Databases, ITSM, Agile Scrum, SDLC/Secure-SDLC.   
 
 
-### Experiance
+### Work History
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > _Client - US biggest bank_  
 Automated infrastructure provisioning using __Terraform__, reducing setup time significantly.  
@@ -29,8 +29,9 @@ Implemented __Cloud Native Buildpacks__ to generate container images without Doc
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
 > Architected AWS multi-environment infrastructure using __Terraform__.  
-Managed __EKS Kubernetes__ Platform Integration and Automation the build and deploy the applications.  
+Managed __EKS Kubernetes__ Platform Integration and Automation the build and deploy the applications using ArgoCD.  
 Designed and Automated Java & Angular app pipelines with __GitHub Actions, Jenkins, Bitbucket__.  
+Implemented fortify scan SAST tool and contrast security DAST tool for application security.  
 Solely managed __production deployments__, ensuring high availability and rapid issue resolution.  
 
 ### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Solution Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
