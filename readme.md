@@ -7,7 +7,7 @@
 
 ###  Cloud & DevSecOps Engineer | AWS | Kubernetes | Terraform | CI/CD
 > Cloud & DevSecOps Engineer with 14+ years of IT experience delivering secure, scalable, and automated cloud
- solutions across AWS and Azure. Expert in infrastructure as code, Kubernetes orchestration, Jenkins, GitHub Actions for CI/CD automation,
+ solutions across AWS. Expert in Kubernetes, Terraform, Jenkins, GitHub Actions for CI/CD automation,
  and cloud security, with a strong record of reducing deployment times, improving cost efficiency, and ensuring
  compliance for enterprise clients.
 
@@ -25,18 +25,22 @@ ___Other:___ Linux, Windows, Databases, ITSM, Agile Scrum, SDLC/Secure-SDLC.
 Automated infrastructure provisioning using __Terraform__, reducing setup time significantly.  
 Developed basic __Python Lambda functions__ for automation tasks.  
 Built and automated __CI/CD pipelines using Jenkins__, streamlining application delivery.  
+Contributed for Java version upgrade and fixing software vulnerabilities.  
 Implemented __Cloud Native Buildpacks__ to generate container images without Dockerfile.  
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
 > Architected AWS multi-environment infrastructure using __Terraform__.  
 Managed __EKS Kubernetes__ Platform Integration and Automation the build and deploy the applications using ArgoCD.  
 Designed and Automated Java & Angular app pipelines with __GitHub Actions, Jenkins, Bitbucket__.  
-Implemented fortify scan SAST tool and contrast security DAST tool for application security.  
-Solely managed __production deployments__, ensuring high availability and rapid issue resolution.  
+Migrated around 100+ applications from Jenkins Pipeline to GitHub Action and Reusable workflows. and reduced build time from 20 to 5 minutes.  
+Automated full end to end application build and deployment pipeline and ArgoCD application creation process.  
+Implemented fortify scan SAST tool and Wiz and contrast security DAST tool for application security.  
+Solely managed __production deployments__, ensuring high availability (Nearly zero downtime) and rapid issue resolution.  
 
 ### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Solution Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
 > Led __application migration to AWS__ using Terraform and Azure DevOps.  
 Designed & implemented __secure cloud infrastructure__ with best practices.  
+Identified existing Cloud Security issues and fixed.  
 Supported __AWS L2 production issues__ and optimized CI/CD pipelines.  
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
