@@ -20,7 +20,7 @@ ___Other:___ Linux, Windows, Databases, ITSM, Agile Scrum, SDLC/Secure-SDLC.
 
 
 ### Work History
-### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
+### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevSecOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > _Client - US biggest bank_  
 Automated infrastructure provisioning using __Terraform__, reducing setup time significantly.  
 Developed basic __Python Lambda functions__ for automation tasks.  
