@@ -6,13 +6,13 @@
 <img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
 ###  AWS & DevSecOps Architect | Kubernetes | Terraform | CI/CD
-> AWS Cloud & DevSecOps Architect with 14+ years of IT experience delivering secure, scalable, and automated AWS
+> Cloud & DevSecOps Architect with 14+ years of IT experience delivering secure, scalable, and automated AWS
  Cloud solutions. Expert in Kubernetes, Terraform, Jenkins, GitHub Actions for CI/CD automation,
  and cloud security, with a strong record of reducing deployment times, improving cost efficiency, and ensuring
  compliance for enterprise clients.
 
 ### Skills
-> ___Cloud Platforms:___ AWS (EKS, ECS, EC2, Auto Scaling, IAM, RDS, DynamoDB, S3, EFS, VPC, ELB, Route53, Certificate Manager, and some other services), Azure (AKS).  
+> ___Cloud Platforms:___ AWS (EKS, ECS, EC2, Auto Scaling, IAM, RDS, DynamoDB, S3, EFS, VPC, ELB, Route53, Certificate Manager, and some other services), Azure (Azure VM, VNet, AKS etc).  
 ___DevOps Tools:___ Kubernetes, ArgoCD, Kustomize, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps.  
 ___Security Tools:___ Checkov, Fortify, AWS Security Hub, GitHub Advanced Security.  
 ___Languages & Scripting:___ Basic Shell/Bash and Python Scripting, Markdown.  
@@ -35,16 +35,17 @@ Designed and Automated Java & Angular app pipelines with __GitHub Actions, Jenki
 Migrated around 100+ applications from Jenkins Pipeline to GitHub Action and Reusable workflows. and reduced build time from 20 to 5 minutes.  
 Automated full end to end application build and deployment pipeline and ArgoCD application creation process.  
 Implemented fortify scan SAST tool and Wiz and contrast security DAST tool for application security.  
-Solely managed __production deployments__, ensuring high availability (Nearly zero downtime) and rapid issue resolution.  
+Solely managed __production deployments__, ensuring high availability (Nearly zero downtime) and rapid issue resolution.
+Created and Managed Azure Cloud resources, AKS using Terraform and Azure DevOps for Data analysis.  
 
 ### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Solution Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
 > Led __application migration to AWS__ using Terraform and Azure DevOps.  
 Designed & implemented __secure cloud infrastructure__ with best practices.  
 Identified existing Cloud Security issues and fixed.  
-Supported __AWS L2 production issues__ and optimized CI/CD pipelines.  
+Supported __AWS and Azure Cloud L2 production issues__ and optimized CI/CD pipelines.  
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
-> Designed & deployed __AWS cloud infrastructure__, addressing L3 issues.  
+> Designed & deployed __AWS and Azure cloud infrastructure__, addressing L3 issues.  
 Migrated and Automated containerized applications to __EKS, ECS, Docker__.  
 Worked on multiple web hosting engines.  
 Built __CI/CD pipelines__ using Jenkins, buddy.works, Git, and Terraform.  
