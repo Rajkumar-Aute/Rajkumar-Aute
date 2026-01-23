@@ -6,7 +6,7 @@
 <img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
 ###  Cloud & DevSecOps Architect | Kubernetes | Terraform | CI/CD
-> Cloud & DevSecOps Architect with 14+ years of IT experience delivering secure, scalable, and automated AWS
+> Cloud & DevSecOps Architect with 14+ years of IT experience delivering secure, scalable, and automated AWS and Azure
  Cloud solutions. Expert in Kubernetes, Terraform, Jenkins, GitHub Actions for CI/CD automation,
  and cloud security, with a strong record of reducing deployment times, improving cost efficiency, and ensuring
  compliance for enterprise clients.
