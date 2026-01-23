@@ -14,7 +14,6 @@ ___DevOps Tools:___ Kubernetes, ArgoCD, Kustomize, Docker, Terraform, Jenkins, G
 ___Security Tools:___ Checkov, Fortify, AWS Security Hub, GitHub Advanced Security.  
 ___Languages & Scripting:___ Python & Shell Scripting (Automation & Tooling), Markdown.  
 ___Other:___ Linux, Windows, Databases, ITSM, Agile Scrum, SDLC/Secure-SDLC.   
-Technical Leadership & Community
 
 ### Technical Leadership & Community [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Lead Author
 > Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, Cloud Security, and Python.  
