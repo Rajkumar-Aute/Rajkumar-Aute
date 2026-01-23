@@ -9,21 +9,22 @@
 > Distinguished __DevSecOps Architect__ with 14+ years of experience designing secure, scalable AWS ecosystems. Expert in orchestrating __Kubernetes__ clusters, automating CI/CD with GitHub Actions/Jenkins, and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.
 
 ### Skills
-> ___Cloud Platforms:___ __AWS__ (EKS, ECS, EC2, ELB, Auto Scaling, IAM, RDS, DynamoDB, S3, EFS, VPC, ELB, Route53, Certificate Manager), __Azure__ (Azure VM, VNet, AKS).  
+> ___Cloud Platforms:___ __AWS__ (EKS, ECS, EC2, ELB, Auto Scaling, IAM, RDS, DynamoDB, S3, EFS, VPC, Route53, CDN, Certificate Manager), __Azure__ (Azure VM, VNet, AKS).  
 ___DevOps Tools:___ Kubernetes, ArgoCD, Kustomize, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps.  
 ___Security Tools:___ Checkov, Fortify, AWS Security Hub, GitHub Advanced Security.  
 ___Languages & Scripting:___ Python & Shell Scripting (Automation & Tooling), Markdown.  
 ___Other:___ Linux, Windows, Databases, ITSM, Agile Scrum, SDLC/Secure-SDLC.   
 
-### Technical Leadership & Community [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Lead Author
-> Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, Cloud Security, and Python.  
+### Technical Leadership & Community 
+> [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Lead Author.  
+Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, Cloud Security, and Python.  
 Created a digital knowledge base to simplify complex architectural concepts for the engineering community.  
 
 ### Work History
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevSecOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > _Major US Banking Client_  
 Reduced infrastructure provisioning time by 40% by implementing modular Terraform architecture and scripts for high-scale environments, eliminating manual resource creation efforts.  
-Engineered Python Lambda functions to automate event driven operational tasks.  
+Engineered Python Lambda functions to automate event-driven operational tasks.  
 Built and automated __CI/CD pipelines using Jenkins__, streamlining application delivery.  
 Spearheaded Java version upgrade strategy and remediation of software vulnerabilities to ensure compliance.  
 Implemented __Cloud Native Buildpacks__ to generate container images without Dockerfile.  
@@ -33,7 +34,7 @@ Implemented __Cloud Native Buildpacks__ to generate container images without Doc
 Managed EKS Kubernetes Platform Integration and orchestrated end-to-end application delivery pipelines using ArgoCD.  
 Designed and Automated Java & Angular app pipelines with __GitHub Actions, Jenkins, Bitbucket__.  
 Migrated 100+ applications from Jenkins to GitHub Actions Reusable Workflows, reducing build time from 20 to 3-5 minutes.  
-Automated full end to end application build and deployment pipeline and ArgoCD application creation process.  
+Automated full end-to-end application build and deployment pipeline and ArgoCD application creation process.  
 Implemented Fortify (SAST) and Wiz and Contrast Security (DAST) for comprehensive application security.  
 Solely managed __production deployments__, ensuring high availability (Nearly zero downtime) and rapid issue resolution.
 Created and Managed Azure Cloud resources, AKS using Terraform and Azure DevOps for Data analysis.  
