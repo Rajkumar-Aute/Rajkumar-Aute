@@ -9,11 +9,11 @@
 > Distinguished __DevSecOps Architect__ with 14+ years of experience designing secure, scalable AWS ecosystems. Expert in orchestrating __Kubernetes__ clusters, automating CI/CD with GitHub Actions/Jenkins, and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.
 
 ### Skills
-> ___Cloud Platforms:___ __AWS__ (EKS, ECS, EC2, ELB, Auto Scaling, IAM, RDS, DynamoDB, ElastiCache, S3, EFS, VPC, Route53, CloudFront, Certificate Manager), __Azure__ (Azure VM, VNet, AKS).  
+> ___Cloud Platforms:___ __AWS__ (EKS, ECS, EC2, ELB, Auto Scaling, IAM, RDS, DynamoDB, ElastiCache, S3, EFS, VPC, Route53, CloudFront, Certificate Manager, WAF), __Azure__ (Azure VM, VNet, AKS).  
 ___DevOps Tools:___ Kubernetes, ArgoCD, Kustomize, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps.  
 ___Security Tools:___ Checkov, Fortify, AWS Security Hub, GitHub Advanced Security.  
 ___Languages & Scripting:___ Python & Shell Scripting (Automation & Tooling), Markdown.  
-___Other:___ Linux, Windows, Databases, ITSM, Agile Scrum, SDLC/Secure-SDLC.   
+___Other:___ Linux, Windows, Databases, ITSM, Agile Scrum, SDLC/Secure-SDLC, Cost Optimization FinOps and Stackholder Management.   
 
 ### Technical Leadership & Community 
 > [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Lead Author.  
