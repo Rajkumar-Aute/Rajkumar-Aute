@@ -16,33 +16,33 @@ ___Languages & Scripting:___ Python & Shell Scripting (Automation & Tooling), Ma
 ___Other:___ Linux, Windows, Databases, ITSM, Agile Scrum, SDLC/Secure-SDLC.   
 Technical Leadership & Community
 
-### Technical Leadership & Community | Founder & Lead Author | DevSecOpsGuru.in
+### Technical Leadership & Community [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Lead Author
 > Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, Cloud Security, and Python.  
 Created a digital knowledge base to simplify complex architectural concepts for the engineering community.  
 
 ### Work History
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevSecOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
-> _Client - US biggest bank_  
-Reduced infrastructure provisioning time by 40% by implementing modular __Terraform__ architecture for high-scale environments and using script for manual resource creation requires.  
-Developed __Python Lambda functions__ for automation tasks.  
+> _Major US Banking Client_  
+Reduced infrastructure provisioning time by 40% by implementing modular Terraform architecture and Scripts for high-scale environments, eliminating manual resource creation efforts.  
+Engineered Python Lambda functions to automate event driven operational tasks.  
 Built and automated __CI/CD pipelines using Jenkins__, streamlining application delivery.  
-Contributing to Java version upgrade and fixing software vulnerabilities.  
+Spearheaded Java version upgrade strategy and remediation of software vulnerabilities to ensure compliance.  
 Implemented __Cloud Native Buildpacks__ to generate container images without Dockerfile.  
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
-> Architected AWS multi-environment infrastructure using __Terraform__.  
-Managed __EKS Kubernetes__ Platform Integration and Orchestrated end-to-end build and deployment pipelines the applications using ArgoCD.  
+> Architected AWS multi environment infrastructure using __Terraform__.  
+Managed EKS Kubernetes Platform Integration and orchestrated end to end application delivery pipelines using ArgoCD.  
 Designed and Automated Java & Angular app pipelines with __GitHub Actions, Jenkins, Bitbucket__.  
-Migrated around 100+ applications from Jenkins Pipeline to GitHub Action and Reusable workflows. and reduced build time from 20 to 5 minutes.  
+Migrated 100+ applications from Jenkins to GitHub Actions Reusable Workflows, reducing build time from 20 to 3~5 minutes.  
 Automated full end to end application build and deployment pipeline and ArgoCD application creation process.  
-Implemented fortify scan SAST tool and Wiz and contrast security DAST tool for application security.  
+Implemented fortify (SAST) and Wiz and contrast security (DAST) for comprehensive application security.  
 Solely managed __production deployments__, ensuring high availability (Nearly zero downtime) and rapid issue resolution.
 Created and Managed Azure Cloud resources, AKS using Terraform and Azure DevOps for Data analysis.  
 
 ### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Solution Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
 > Led __application migration to AWS__ using Terraform and Azure DevOps.  
 Designed & implemented __secure cloud infrastructure__ with best practices.  
-Conducted comprehensive security audits and remediated critical vulnerabilities and fixed.  
+Conducted comprehensive security audits and remediated critical vulnerabilities.  
 Supported __AWS and Azure Cloud L2 production issues__ and optimized CI/CD pipelines.  
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
