@@ -9,7 +9,7 @@
 > Distinguished __DevSecOps Architect__ with 14+ years of experience designing secure, scalable AWS ecosystems. Expert in orchestrating __Kubernetes__ clusters, automating CI/CD with GitHub Actions/Jenkins, and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.
 
 ### Skills
-> ___Cloud Platforms:___ __AWS__ (EKS, ECS, EC2, ELB, Auto Scaling, IAM, RDS, DynamoDB, S3, EFS, VPC, ELB, Route53, Certificate Manager,), __Azure__ (Azure VM, VNet, AKS).  
+> ___Cloud Platforms:___ __AWS__ (EKS, ECS, EC2, ELB, Auto Scaling, IAM, RDS, DynamoDB, S3, EFS, VPC, ELB, Route53, Certificate Manager), __Azure__ (Azure VM, VNet, AKS).  
 ___DevOps Tools:___ Kubernetes, ArgoCD, Kustomize, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps.  
 ___Security Tools:___ Checkov, Fortify, AWS Security Hub, GitHub Advanced Security.  
 ___Languages & Scripting:___ Python & Shell Scripting (Automation & Tooling), Markdown.  
@@ -29,8 +29,8 @@ Spearheaded Java version upgrade strategy and remediation of software vulnerabil
 Implemented __Cloud Native Buildpacks__ to generate container images without Dockerfile.  
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
-> Architected AWS multi environment infrastructure using __Terraform__.  
-Managed EKS Kubernetes Platform Integration and orchestrated end to end application delivery pipelines using ArgoCD.  
+> Architected AWS multi-environment infrastructure using __Terraform__.  
+Managed EKS Kubernetes Platform Integration and orchestrated end-to-end application delivery pipelines using ArgoCD.  
 Designed and Automated Java & Angular app pipelines with __GitHub Actions, Jenkins, Bitbucket__.  
 Migrated 100+ applications from Jenkins to GitHub Actions Reusable Workflows, reducing build time from 20 to 3-5 minutes.  
 Automated full end to end application build and deployment pipeline and ArgoCD application creation process.  
