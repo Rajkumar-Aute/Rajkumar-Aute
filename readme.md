@@ -12,7 +12,7 @@
 > ___Cloud Platforms:___ __AWS__ (EKS, ECS, EC2, Auto Scaling, IAM, RDS, DynamoDB, S3, EFS, VPC, ELB, Route53, Certificate Manager, and some other services), __Azure__ (Azure VM, VNet, AKS etc).  
 ___DevOps Tools:___ Kubernetes, ArgoCD, Kustomize, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps.  
 ___Security Tools:___ Checkov, Fortify, AWS Security Hub, GitHub Advanced Security.  
-___Languages & Scripting:___ Shell/Bash and Python Scripting, Markdown.  
+___Languages & Scripting:___ Python & Shell Scripting (Automation & Tooling), Markdown.  
 ___Other:___ Linux, Windows, Databases, ITSM, Agile Scrum, SDLC/Secure-SDLC.   
 
 
@@ -22,7 +22,7 @@ ___Other:___ Linux, Windows, Databases, ITSM, Agile Scrum, SDLC/Secure-SDLC.
 Reduced infrastructure provisioning time by 40% by implementing modular __Terraform__ architecture for high-scale environments and using script for manual resource creation requires.  
 Developed __Python Lambda functions__ for automation tasks.  
 Built and automated __CI/CD pipelines using Jenkins__, streamlining application delivery.  
-Contributed for Java version upgrade and fixing software vulnerabilities.  
+Contributing to Java version upgrade and fixing software vulnerabilities.  
 Implemented __Cloud Native Buildpacks__ to generate container images without Dockerfile.  
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
