@@ -17,8 +17,7 @@ ___Observability:___ Prometheus, Grafana, CloudWatch.
 ___Other:___ Linux, Windows, Databases (MySQL), ITSM, Agile Scrum, SDLC/Secure-SDLC, Cost Optimization (FinOps), Stakeholder Management.   
 
 ### Technical Leadership & Community 
-> [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Lead Author.  
-Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, Cloud Security, and Python.  
+> [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Lead Author. Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, Cloud Security, and Python.  
 Created a digital knowledge base to simplify complex architectural concepts for the engineering community.  
 
 ### Work History
