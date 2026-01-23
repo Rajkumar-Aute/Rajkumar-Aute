@@ -14,7 +14,11 @@ ___DevOps Tools:___ Kubernetes, ArgoCD, Kustomize, Docker, Terraform, Jenkins, G
 ___Security Tools:___ Checkov, Fortify, AWS Security Hub, GitHub Advanced Security.  
 ___Languages & Scripting:___ Python & Shell Scripting (Automation & Tooling), Markdown.  
 ___Other:___ Linux, Windows, Databases, ITSM, Agile Scrum, SDLC/Secure-SDLC.   
+Technical Leadership & Community
 
+### Technical Leadership & Community | Founder & Lead Author | DevSecOpsGuru.in
+> Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, Cloud Security, and Python.  
+Created a digital knowledge base to simplify complex architectural concepts for the engineering community.  
 
 ### Work History
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevSecOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
@@ -61,9 +65,9 @@ Achieved 98% service uptime for Billing application & Websites on Linux & DB ser
 Handled __network infrastructure, AD, routers, switches, and user management__.  
 
 ### Certifications
-> <img width="" height="14" src="./image/cert/cka.svg"> [__Certified Kubernetes Administrator (CKA)__](https://www.credly.com/badges/0dee1521-344c-4602-8f7a-a59983613b8b/public_url){:target="_blank"}<font size="1"> ~ Dec 2022</font>  
-<img width="" height="14" src="./image/cert/AWS_Architect_Associate.png"> [__AWS Certified Solutions Architect – Associate__](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Oct 2019</font>  
-<img width="" height="14" src="./image/cert/azure-administrator-associate.png"> [__Microsoft Certified Azure Administrator Associate__](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"> ~ Jan 2021</font>  
+> <img width="" height="14" src="./image/cert/cka.svg"> [__Certified Kubernetes Administrator (CKA)__](https://www.credly.com/badges/0dee1521-344c-4602-8f7a-a59983613b8b/public_url){:target="_blank"}<font size="1"></font>  
+<img width="" height="14" src="./image/cert/AWS_Architect_Associate.png"> [__AWS Certified Solutions Architect – Associate__](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"></font>  
+<img width="" height="14" src="./image/cert/azure-administrator-associate.png"> [__Microsoft Certified Azure Administrator Associate__](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"></font>  
 <img width="" height="14" src="./image/cert/DevSecOps-Essentials.png"> [__IBM DevSecOps Essentials__](https://www.credly.com/badges/e19cb742-c05c-40d8-9d2e-979a92a4fedb/public_url){:target="_blank"}   
 <img width="" height="14" src="./image/cert/cybersecurity.png"> [__Ethical Hacking and Countermeasures Expert__](./image/cert/Rajkumar_Aute_EHCE_Certificate.pdf){:target="_blank"}   
 <img width="" height="14" src="./image/cert/redhat.png"> [__Red Hat Certified Engineer__](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<!--- <font size="1"> ~ Jul 2018</font> --->  
