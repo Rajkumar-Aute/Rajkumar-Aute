@@ -12,7 +12,7 @@
  compliance for enterprise clients.
 
 ### Skills
-> ___Cloud Platforms:___ AWS (EKS, ECS, EC2, Auto Scaling, IAM, RDS, DynamoDB, S3, EFS, VPC, ELB, Route53, Certificate Manager, and some other services), Azure (Azure VM, VNet, AKS etc).  
+> ___Cloud Platforms:___ __AWS__ (EKS, ECS, EC2, Auto Scaling, IAM, RDS, DynamoDB, S3, EFS, VPC, ELB, Route53, Certificate Manager, and some other services), __Azure__ (Azure VM, VNet, AKS etc).  
 ___DevOps Tools:___ Kubernetes, ArgoCD, Kustomize, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps.  
 ___Security Tools:___ Checkov, Fortify, AWS Security Hub, GitHub Advanced Security.  
 ___Languages & Scripting:___ Basic Shell/Bash and Python Scripting, Markdown.  
