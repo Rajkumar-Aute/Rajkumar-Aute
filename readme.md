@@ -32,7 +32,7 @@ __Implemented Cloud Native Buildpacks__ to generate container images without Doc
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
 > __Architected AWS multi-environment infrastructure__ using Terraform.  
 __Migrated 100+ applications__ from Jenkins to GitHub Actions Reusable Workflows, __reducing build time from 20 to 3-5 minutes__.  
-__Managed EKS Kubernetes Platform Integration__ and orchestrated end-to-end application delivery pipelines using ArgoCD.  
+__Created and managed EKS Kubernetes Platform Integration__ and orchestrated end-to-end application delivery pipelines using ArgoCD.  
 __Designed and automated__ Java & Angular app pipelines with __GitHub Actions, Jenkins, Bitbucket__.  
 __Automated full end-to-end application build__ and deployment pipeline and ArgoCD application creation process.  
 Implemented Fortify (SAST) and Wiz and Contrast Security (DAST) for comprehensive application security.  
