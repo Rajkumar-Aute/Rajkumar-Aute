@@ -13,8 +13,8 @@
 ___DevOps Tools:___ Kubernetes, ArgoCD, Kustomize, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps.  
 ___Security Tools:___ Checkov, Fortify, Snyk,  AWS Security Hub, GitHub Advanced Security.  
 ___Languages & Scripting:___ Python & Shell Scripting (Automation & Tooling), Markdown.  
-___Observability___ Prometheus, Grafana, CloudWatch.  
-___Other:___ Linux, Windows, Databases(MySQL), ITSM, Agile Scrum, SDLC/Secure-SDLC, Cost Optimization (FinOps) and Stakeholder Management.   
+___Observability:___ Prometheus, Grafana, CloudWatch.  
+___Other:___ Linux, Windows, Databases (MySQL), ITSM, Agile Scrum, SDLC/Secure-SDLC, Cost Optimization (FinOps), Stakeholder Management.   
 
 ### Technical Leadership & Community 
 > [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Lead Author.  
