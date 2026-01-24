@@ -30,7 +30,7 @@ __Spearheaded Java version upgrade__ and remediation of software vulnerabilities
 > __Migrated 100+ applications__ from Jenkins to GitHub Actions Reusable Workflows, __reducing build time from 20 to 3-5 minutes__.  
 Architected AWS multi-environment infrastructure using Terraform and managed EKS Platform integration with ArgoCD.  
 __Automated full end-to-end application build__ and deployment pipeline and ArgoCD application creation process.  
-Implemented Fortify (SAST), Wiz and Contrast Security (DAST) for comprehensive application security.  
+Implemented Fortify (SAST), Wiz, and Contrast Security (DAST) for comprehensive application security.  
 __Solely managed production deployments__, ensuring high availability (Nearly zero downtime) and rapid issue resolution.  
 Created and managed Azure Cloud resources, AKS using Terraform and Azure DevOps for Data analysis.  
 
