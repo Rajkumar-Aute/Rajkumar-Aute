@@ -12,19 +12,19 @@
 > ___Cloud Platforms:___ __AWS__ (EKS, ECS, EC2, ELB, Auto Scaling, IAM, RDS, DynamoDB, ElastiCache, S3, EFS, VPC, Route53, Certificate Manager, WAF), __Azure__ (Azure VM, VNet, AKS).  
 ___DevOps Tools:___ Kubernetes, ArgoCD, Kustomize, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps.  
 ___Security Tools:___ Checkov, Fortify, Snyk,  AWS Security Hub, GitHub Advanced Security.  
-___Languages & Scripting:___ Python & Shell Scripting (Automation & Tooling), Markdown.  
+___Languages & Scripting:___ Shell Scripting & Python (Operational Automation), Markdown.  
 ___Observability:___ Prometheus, Grafana, CloudWatch.  
 ___Other:___ Linux, Windows, Databases (MySQL), ITSM, Agile Scrum, SDLC/Secure-SDLC, Cost Optimization (FinOps), Stakeholder Management.   
 
 ### Technical Leadership & Community 
-> [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Lead Author. Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, Cloud Security, and Python.  
+> [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Lead Author. Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, and Cloud Security.  
 Created a digital knowledge base to simplify complex architectural concepts for the engineering community.  
 
 ### Work History
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevSecOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > _Major US Banking Client_  
 __Reduced infrastructure provisioning time by 40%__ by implementing modular Terraform architecture and scripts for high-scale environments, eliminating manual resource creation efforts.  
-__Engineered Python Lambda functions__ to automate event-driven operational tasks.  
+Deployed Python-based AWS Lambda functions to trigger event-driven operational tasks.  
 __Built and automated CI/CD pipelines using Jenkins__, streamlining application delivery.  
 __Spearheaded Java version upgrade strategy__ and remediation of software vulnerabilities to ensure compliance.  
 __Implemented Cloud Native Buildpacks__ to generate container images without Dockerfile.  
