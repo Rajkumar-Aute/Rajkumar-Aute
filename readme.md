@@ -49,12 +49,10 @@ Built __CI/CD pipelines__ using Jenkins, buddy.works, Git, and Terraform.
 Automated CI/CD pipelines with __Git & Jenkins__.  
 Managed __Azure AD, virtualization__, and security best practices.  
 
-### <img width="" height="14" src="./image/org/wla.png"> [_Wonderla Holidays Ltd._](http://www.wonderla.com){:target="_blank"} _<font size="2">Executive IT | AWS, Linux | Hyderabad.</font>_ <font size="1">Aug 2018 - Aug 2019</font>
+### Previous Experience (2012 – 2019)
+### <!--- <img width="" height="14" src="./image/org/wla.png"> ---> [_Wonderla_](http://www.wonderla.com){:target="_blank"} <!---_<font size="2">Executive IT  AWS, Linux | Hyderabad.</font>_ <font size="1">Aug 2018 - Aug 2019</font> ---> | <!--- <img width="" height="18" src="./image/org/3i.png"> --->[_3i Infotech_](http://www.3i-infotech.com){:target="_blank"} _<font size="2"> <!---Engineer | AWS, Linux | Hyderabad.---></font>_ <font size="1"> <!---Mar 2015 - Jul 2018 ---></font> | <!--- <img width="" height="20" src="./image/org/infoservice.jpg"> ---> [_Info Services_](http://ibmesp.com){:target="_blank"}<!---_<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>_ <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> | <!--- <img width="" height="15" src="./image/org/kaizen.png"> ---> [_Kaizen IT Services_](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} <!---_<font size="2"> Engineer</font>_ <font size="1">Mar 2012 - Mar 2012 - July 2014---> Jul 2018</font> <font size="1"> </font>  
 > Administered Cloud infrastructure & managed various Cloud Services.  
-Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted on VMWare ESXi & AWS cloud.
-
-### <!--- <img width="" height="18" src="./image/org/3i.png"> --->[_3i Infotech_](http://www.3i-infotech.com){:target="_blank"} _<font size="2"> <!---Engineer | AWS, Linux | Hyderabad.---></font>_ <font size="1"> <!---Mar 2015 - Jul 2018 ---></font> | <!--- <img width="" height="20" src="./image/org/infoservice.jpg"> ---> [_Info Services_](http://ibmesp.com){:target="_blank"}<!---_<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>_ <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> | <!--- <img width="" height="15" src="./image/org/kaizen.png"> ---> [_Kaizen IT Services_](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} _<font size="2"> Engineer</font>_ <font size="1">Mar 2012 - <!---Mar 2012 - July 2014---> Jul 2018</font> <font size="1"> </font>  
-> Managed Linux, DB, and Windows DC servers.  
+Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted on VMWare ESXi & AWS cloud.Managed Linux, DB, and Windows DC servers.  
 Handled __network infrastructure, AD, routers, switches, and user management__.  
 
 ### Certifications
