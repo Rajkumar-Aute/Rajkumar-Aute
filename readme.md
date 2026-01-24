@@ -52,14 +52,14 @@ Managed __Azure AD, virtualization__, and security best practices.
 ##### Previous Experience (2012 – 2019)
 ### <!--- <img width="" height="14" src="./image/org/wla.png"> ---> [_Wonderla_](http://www.wonderla.com){:target="_blank"} <!---_<font size="2">Executive IT  AWS, Linux | Hyderabad.</font>_ <font size="1">Aug 2018 - Aug 2019</font> ---> | <!--- <img width="" height="18" src="./image/org/3i.png"> --->[_3i Infotech_](http://www.3i-infotech.com){:target="_blank"} _<font size="2"> <!---Engineer | AWS, Linux | Hyderabad.---></font>_ <font size="1"> <!---Mar 2015 - Jul 2018 ---></font> | <!--- <img width="" height="20" src="./image/org/infoservice.jpg"> ---> [_Info Services_](http://ibmesp.com){:target="_blank"}<!---_<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>_ <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> | <!--- <img width="" height="15" src="./image/org/kaizen.png"> ---> [_Kaizen IT Services_](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} <!---_<font size="2"> Engineer</font>_ <font size="1">Mar 2012 - Mar 2012 - July 2014 Jul 2018</font> <font size="1"> </font>  --->
 > Administered Cloud infrastructure & managed various Cloud Services.  
-Achieved 98% service uptime for Billing application & Websites on Linux & DB servers hosted on VMWare ESXi & AWS cloud.Managed Linux, DB, and Windows DC servers.  
-Handled __network infrastructure, AD, routers, switches, and user management__.  
+Achieved 98% service uptime for billing applications and websites hosted on VMware ESXi and AWS. Managed Linux, Database, and Windows ADDC servers.   
+Handled __network infrastructure, routers, switches, and user management__.  
 
 ### Certifications
 > <img width="" height="14" src="./image/cert/cka.svg"> [__Certified Kubernetes Administrator (CKA)__](https://www.credly.com/badges/0dee1521-344c-4602-8f7a-a59983613b8b/public_url){:target="_blank"}<font size="1"></font>  
+<img width="" height="14" src="./image/cert/DevSecOps-Essentials.png"> [__IBM DevSecOps Essentials__](https://www.credly.com/badges/e19cb742-c05c-40d8-9d2e-979a92a4fedb/public_url){:target="_blank"}   
 <img width="" height="14" src="./image/cert/AWS_Architect_Associate.png"> [__AWS Certified Solutions Architect – Associate__](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}<font size="1"></font>  
 <img width="" height="14" src="./image/cert/azure-administrator-associate.png"> [__Microsoft Certified Azure Administrator Associate__](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"></font>  
-<img width="" height="14" src="./image/cert/DevSecOps-Essentials.png"> [__IBM DevSecOps Essentials__](https://www.credly.com/badges/e19cb742-c05c-40d8-9d2e-979a92a4fedb/public_url){:target="_blank"}   
 <img width="" height="14" src="./image/cert/cybersecurity.png"> [__Ethical Hacking and Countermeasures Expert__](./image/cert/Rajkumar_Aute_EHCE_Certificate.pdf){:target="_blank"}   
 <img width="" height="14" src="./image/cert/redhat.png"> [__Red Hat Certified Engineer__](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<!--- <font size="1"> ~ Jul 2018</font> --->  
 [__View Complete Certification Portfolio__](https://www.credly.com/users/rajkumar-aute/badges){:target="_blank"}  
