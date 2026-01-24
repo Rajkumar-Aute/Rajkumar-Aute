@@ -9,41 +9,34 @@
 > Distinguished __DevSecOps Architect__ with 14+ years of experience designing secure, scalable AWS ecosystems. Expert in orchestrating __Kubernetes__ clusters, automating CI/CD with GitHub Actions/Jenkins, and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.
 
 ### Skills
-> ___Cloud Platforms:___ __AWS__ (EKS, ECS, EC2, ELB, Auto Scaling, IAM, RDS, DynamoDB, ElastiCache, S3, EFS, VPC, Route53, Certificate Manager, WAF), __Azure__ (Azure VM, VNet, AKS).  
-___DevOps Tools:___ Kubernetes, ArgoCD, Kustomize, Docker, Terraform, Jenkins, GitHub Actions, Azure DevOps.  
-___Security Tools:___ Checkov, Fortify, Snyk,  AWS Security Hub, GitHub Advanced Security.  
-___Languages & Scripting:___ Shell Scripting & Python (Operational Automation), Markdown.  
-___Observability:___ Prometheus, Grafana, CloudWatch.  
-___Other:___ Linux, Windows, Databases (MySQL), ITSM, Agile Scrum, SDLC/Secure-SDLC, Cost Optimization (FinOps), Stakeholder Management.   
+> ___Cloud & DevOps:___ __AWS__ (EKS, ECS, IAM, WAF), __Azure__ (AKS), Kubernetes, ArgoCD, Kustomize, Terraform.  
+___CI/CD & Security:___ GitHub Actions, Jenkins, Checkov, Fortify, Snyk,  AWS Security Hub, GitHub Advanced Security.  
+___Scripting & Observability:___ Shell Scripting & Python (Operational Automation), Markdown, Prometheus, Grafana.  
+___Core Competencies:___ ITSM, Agile Scrum, Secure-SDLC, Cost Optimization (FinOps), Stakeholder Management.   
 
-### Technical Leadership & Community 
-> [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Lead Author. Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, and Cloud Security.  
+### Technical Leadership & Community [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Lead Author. 
+> Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, and Cloud Security.  
 Created a digital knowledge base to simplify complex architectural concepts for the engineering community.  
 
 ### Work History
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevSecOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
-> _Major US Banking Client_  
-__Reduced infrastructure provisioning time by 40%__ by implementing modular Terraform architecture and scripts for high-scale environments, eliminating manual resource creation efforts.  
+>__Reduced infrastructure provisioning time by 40%__ by implementing Terraform and scripts for high-scale environments, eliminating manual resource creation efforts.  
 Deployed Python-based AWS Lambda functions to trigger event-driven operational tasks.  
-__Built and automated CI/CD pipelines using Jenkins__, streamlining application delivery.  
-__Spearheaded Java version upgrade strategy__ and remediation of software vulnerabilities to ensure compliance.  
-__Implemented Cloud Native Buildpacks__ to generate container images without Dockerfile.  
+__Built and automated CI/CD pipelines using Jenkins__, and __Implemented Cloud Native Buildpacks__ to generate container images without Dockerfile.  
+__Spearheaded Java version upgrade__ and remediation of software vulnerabilities to ensure compliance.  
+
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
-> __Architected AWS multi-environment infrastructure__ using Terraform.  
-__Migrated 100+ applications__ from Jenkins to GitHub Actions Reusable Workflows, __reducing build time from 20 to 3-5 minutes__.  
-__Created and managed EKS Kubernetes Platform Integration__ and orchestrated end-to-end application delivery pipelines using ArgoCD.  
-__Designed and automated__ Java & Angular app pipelines with __GitHub Actions, Jenkins, Bitbucket__.  
+> __Migrated 100+ applications__ from Jenkins to GitHub Actions Reusable Workflows, __reducing build time from 20 to 3-5 minutes__.  
+Architected AWS multi-environment infrastructure using Terraform and managed EKS Platform integration with ArgoCD.  
 __Automated full end-to-end application build__ and deployment pipeline and ArgoCD application creation process.  
 Implemented Fortify (SAST) and Wiz and Contrast Security (DAST) for comprehensive application security.  
 __Solely managed production deployments__, ensuring high availability (Nearly zero downtime) and rapid issue resolution.  
 Created and managed Azure Cloud resources, AKS using Terraform and Azure DevOps for Data analysis.  
 
 ### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Solution Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
-> Led __application migration to AWS__ using Terraform and Azure DevOps.  
-Designed & implemented __secure cloud infrastructure__ with best practices.  
-Conducted comprehensive security audits and remediated critical vulnerabilities.  
-Supported __AWS and Azure Cloud L2 production issues__ and optimized CI/CD pipelines.  
+> Led application migration to AWS using Terraform and Azure DevOps, implementing secure cloud infrastructure best practices.  
+Conducted comprehensive security audits, remediated critical vulnerabilities, and optimized CI/CD pipelines.  
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
 > Designed & deployed __AWS and Azure cloud infrastructure__, addressing L3 issues.  
