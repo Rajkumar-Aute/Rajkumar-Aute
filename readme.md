@@ -22,7 +22,7 @@ Created a digital knowledge base to simplify complex architectural concepts for 
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevSecOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 >__Reduced infrastructure provisioning time by 40%__ by implementing Terraform and scripts for high-scale environments, eliminating manual resource creation efforts.  
 Deployed Python-based AWS Lambda functions to trigger event-driven operational tasks.  
-__Built and automated CI/CD pipelines using Jenkins__, and __Implemented Cloud Native Buildpacks__ to generate container images without Dockerfile.  
+__Built and automated CI/CD pipelines using Jenkins__, and implemented Cloud Native Buildpacks to generate container images without Dockerfiles.  
 __Spearheaded Java version upgrade__ and remediation of software vulnerabilities to ensure compliance.  
 
 
@@ -30,7 +30,7 @@ __Spearheaded Java version upgrade__ and remediation of software vulnerabilities
 > __Migrated 100+ applications__ from Jenkins to GitHub Actions Reusable Workflows, __reducing build time from 20 to 3-5 minutes__.  
 Architected AWS multi-environment infrastructure using Terraform and managed EKS Platform integration with ArgoCD.  
 __Automated full end-to-end application build__ and deployment pipeline and ArgoCD application creation process.  
-Implemented Fortify (SAST) and Wiz and Contrast Security (DAST) for comprehensive application security.  
+Implemented Fortify (SAST), Wiz and Contrast Security (DAST) for comprehensive application security.  
 __Solely managed production deployments__, ensuring high availability (Nearly zero downtime) and rapid issue resolution.  
 Created and managed Azure Cloud resources, AKS using Terraform and Azure DevOps for Data analysis.  
 
