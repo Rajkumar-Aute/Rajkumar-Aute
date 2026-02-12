@@ -16,6 +16,7 @@ ___Core Competencies:___ ITSM, Agile Scrum, Secure-SDLC, Cost Optimization (FinO
 <!---### Technical Leadership & Community [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Author. 
 > Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, and Cloud Security.  
 Created a digital knowledge base to simplify complex architectural concepts for the engineering community.  --->
+
 ### Work History
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevSecOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 >__Reduced infrastructure provisioning time by 40%__ by implementing Terraform and scripts for high-scale environments, eliminating manual resource creation efforts.  
