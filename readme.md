@@ -5,7 +5,7 @@
 <img width="" height="12" src="./image/other/linkedin.png"> [linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
 <img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
-###  Cloud Native DevSecOps Architect | Kubernetes Platform Enggineering | Terraform | CI/CD | Cloud Security
+###  Cloud Native DevSecOps Architect | Kubernetes Platform Engineering | Terraform | CI/CD | Cloud Security
 > Distinguished __Kubernetes Platform and DevSecOps Architect__ with 14+ years of experience designing secure, scalable multi-cloud ecosystems. Expert in orchestrating __enterprise-grade Kubernetes__ clusters (EKS, AKS), automating CI/CD with GitOps principles (ArgoCD, GitHub Actions/Jenkins), and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.
 
 ### Technical Skills
