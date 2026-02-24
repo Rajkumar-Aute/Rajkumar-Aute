@@ -2,7 +2,7 @@
 <img width="" height="10" src="./image/other/call.gif"> [9945571886](https://wa.me/+919945571886){:target="_blank"} |
 <img width="" height="10" src="./image/other/email.gif"> [RajkumarAute@Gmail.com](mailto:Rajkumar.Aute@gmail.com){:target="_blank"} |
 <img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/India){:target="_blank"} |
-<img width="" height="12" src="./image/other/linkedin.png"> [linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
+<img width="" height="12" src="./image/other/linkedin.png"> [Linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
 <img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
 ###  Cloud Native DevSecOps Architect | Kubernetes Platform Engineering | Terraform | CI/CD | Cloud Security
@@ -18,7 +18,7 @@ __Core Competencies:__ Secure-SDLC, Threat Modeling, Compliance-as-Code, FinOps 
 Created a digital knowledge base to simplify complex architectural concepts for the engineering community.  --->
 
 ### Professional Experience
-### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevSecOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
+### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevSecOps Architect | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > __Infrastructure Automation:__ Reduced infrastructure provisioning time by 40% by implementing modular __Terraform__ (IaC) scripts for high-scale environments, eliminating manual resource creation.  
 __Event-Driven Operations:__ Engineered and deployed Python-based AWS Lambda functions to trigger automated, event-driven operational and remediation tasks.  
 __Pipeline Modernization:__ Built and automated CI/CD pipelines using Jenkins and implemented Cloud Native Buildpacks to dynamically generate container images without relying on static Dockerfiles.  
@@ -69,10 +69,9 @@ __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10
 --->
 
 #### Honors & Awards
->[IBM](https://www.ibm.com)  ~ 5 x Star and 1 x Super Star awarded and got appreciation by client for extended production support.  
-[TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing my Cloud DevOps knowledge & contributing to the client project.  
-[WHL](http://www.wonderla.com) ~ Appreciated by the VP IT for implementing automation.  
+>[IBM](https://www.ibm.com)  ~ Awarded 5x Star and 1x Super Star; received direct client appreciation for exceptional extended production support.  
+[TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing Cloud DevOps expertise and driving client project success.  
+[WHL](http://www.wonderla.com) ~ Commended by the VP of IT for successfully implementing infrastructure automation.  
 [3i Infotech](http://www.3i-infotech.com) ~ Appreciated by the clients for implementing best practices in IT service.  
-National Level Gold Medal in rifle shooting, NCC Thal Sainik Computation Camp Delhi-2005.
-
+National Level Gold Medal in rifle shooting, NCC Thal Sainik Competition Camp, Delhi (2005).  
 ###### For latest Résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} 
