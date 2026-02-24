@@ -5,48 +5,44 @@
 <img width="" height="12" src="./image/other/linkedin.png"> [linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
 <img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
-###  Cloud & DevSecOps Architect | Kubernetes | Terraform | CI/CD | Cloud Security
-> Distinguished __DevSecOps Architect__ with 14+ years of experience designing secure, scalable AWS ecosystems. Expert in orchestrating __Kubernetes__ clusters, automating CI/CD with GitHub Actions/Jenkins, and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.
+###  Cloud Native DevSecOps Architect | Kubernetes Platform Enggineering | Terraform | CI/CD | Cloud Security
+> Distinguished __Kubernetes Platform and DevSecOps Architect__ with 14+ years of experience designing secure, scalable multi-cloud ecosystems. Expert in orchestrating __enterprise-grade Kubernetes__ clusters (EKS, AKS), automating CI/CD with GitOps principles (ArgoCD, GitHub Actions/Jenkins), and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.
 
-### Skills
-> ___Cloud & DevOps:___ __AWS__ (EKS, ECS, IAM, WAF), __Azure__ (AKS), Kubernetes, ArgoCD, Kustomize, Terraform.  
-___CI/CD & Security:___ GitHub Actions, Jenkins, Checkov, Fortify, Snyk,  AWS Security Hub, GitHub Advanced Security.  
-___Scripting & Observability:___ Shell Scripting & Python (Operational Automation), Markdown, Prometheus, Grafana.  
-___Core Competencies:___ ITSM, Agile Scrum, Secure-SDLC, Cost Optimization (FinOps), Stakeholder Management.   
+### Technical Skills
+> __Cloud & Platform Engineering:__ AWS (EKS, ECS, IAM, WAF), Azure (AKS), Kubernetes, Helm, Kustomize, Terraform (IaC), ArgoCD (GitOps).  
+__DevSecOps & Security:__ GitHub Actions, Jenkins, Shift-Left Security, Checkov, Fortify (SAST), Snyk, Wiz, Contrast Security (DAST), AWS Security Hub, GitHub Advanced Security.  
+__Scripting & Observability:__ Python (Operational Automation), Shell Scripting, Markdown, Prometheus, Grafana.  
+__Core Competencies:__ Secure-SDLC, Threat Modeling, Compliance-as-Code, FinOps (Cost Optimization), ITSM, Agile Scrum, Stakeholder Management.
 <!---### Technical Leadership & Community [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Author. 
 > Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, and Cloud Security.  
 Created a digital knowledge base to simplify complex architectural concepts for the engineering community.  --->
 
-### Work History
+### Professional Experience
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevSecOps Architect| Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
->__Reduced infrastructure provisioning time by 40%__ by implementing Terraform and scripts for high-scale environments, eliminating manual resource creation efforts.  
-Deployed Python-based AWS Lambda functions to trigger event-driven operational tasks.  
-__Built and automated CI/CD pipelines using Jenkins__, and implemented Cloud Native Buildpacks to generate container images without Dockerfiles.  
-__Spearheaded Java version upgrade__ and remediation of software vulnerabilities to ensure compliance.  
+> _Infrastructure Automation:_ Reduced infrastructure provisioning time by 40% by implementing modular Terraform (IaC) scripts for high-scale environments, eliminating manual resource creation.  
+_Event-Driven Operations:_ Engineered and deployed Python-based AWS Lambda functions to trigger automated, event-driven operational and remediation tasks.  
+_Pipeline Modernization:_ Built and automated CI/CD pipelines using Jenkins and implemented Cloud Native Buildpacks to dynamically generate container images without relying on static Dockerfiles.  
+_Security & Compliance:_ Spearheaded critical Java version upgrades and automated the remediation of software vulnerabilities to maintain strict enterprise compliance and security standards. 
 
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
-> __Migrated 100+ applications__ from Jenkins to GitHub Actions Reusable Workflows, __reducing build time from 20 to 3-5 minutes__.  
-Architected AWS multi-environment infrastructure using Terraform and managed EKS Platform integration with ArgoCD.  
-__Automated full end-to-end application build__ and deployment pipeline and ArgoCD application creation process.  
-Implemented Fortify (SAST), Wiz, and Contrast Security (DAST) for comprehensive application security.  
-__Solely managed production deployments__, ensuring high availability (Nearly zero downtime) and rapid issue resolution.  
-Created and managed Azure Cloud resources, AKS using Terraform and Azure DevOps for Data analysis.  
+>_CI/CD Optimization:_ Migrated 100+ applications from legacy Jenkins to GitHub Actions Reusable Workflows, slashing build times from 20 minutes to 3-5 minutes.  
+_GitOps & Platform Engineering:_ Architected a GitOps-driven Kubernetes platform on AWS EKS, utilizing Terraform for IaC and ArgoCD for automated, drift-proof, multi-environment deployments.  
+_Shift-Left Security:_ Engineered a comprehensive DevSecOps posture by embedding Fortify (SAST), Wiz, and Contrast Security (DAST) directly into deployment pipelines, blocking critical vulnerabilities pre-production.  
+_High Availability:_ Solely managed mission-critical production deployments, ensuring near-zero downtime, high availability, and rapid incident resolution.  
+_Multi-Cloud Provisioning:_ Created and governed Azure Cloud resources and AKS clusters using Terraform and Azure DevOps to support complex data analysis workloads.  
 
 ### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Solution Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
-> Led application migration to AWS using Terraform and Azure DevOps, implementing secure cloud infrastructure best practices.  
-Conducted comprehensive security audits, remediated critical vulnerabilities, and optimized CI/CD pipelines.  
+>_Cloud Migration:_ Led large-scale application migrations to AWS leveraging Terraform and Azure DevOps, enforcing secure cloud infrastructure architecture and best practices.  
+_Security Auditing:_ Conducted comprehensive threat modeling and security audits, successfully remediating critical vulnerabilities while optimizing CI/CD pipeline efficiency.  
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
-> Designed & deployed __AWS and Azure cloud infrastructure__, addressing L3 issues.  
-Migrated and automated containerized applications to __EKS, ECS, Docker__.  
-Worked on multiple web hosting engines.  
-Built __CI/CD pipelines__ using Jenkins, buddy.works, Git, and Terraform.  
+>_Container Orchestration:_ Designed AWS and Azure cloud infrastructure, successfully migrating legacy applications to containerized environments using EKS, ECS, and Docker.  
+_Pipeline Development:_ Engineered end-to-end CI/CD pipelines utilizing Jenkins, buddy.works, Git, and Terraform for multiple web hosting engines.  
 
 ### <img width="" height="14" src="./image/org/lera.png"> [_Lera Technologies_](http://www.lera.us){:target="_blank"} _<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>_ <font size="1">Sep 2019 - Apr 2020.</font>  
-> Designed & implemented __cloud infrastructure__ for AWS & Azure.  
-Automated CI/CD pipelines with __Git & Jenkins__.  
-Managed __Azure AD, virtualization__, and security best practices.  
+>_Cloud Architecture:_ Designed, implemented, and governed scalable cloud infrastructure across AWS and Azure environments.  
+_Access & Automation:_ Managed Azure AD integrations, virtualization, and security protocols while automating CI/CD workflows with Git and Jenkins.
 
 ##### Previous Experience (2012 – 2019)
 ### <!--- <img width="" height="14" src="./image/org/wla.png"> ---> [_Wonderla_](http://www.wonderla.com){:target="_blank"} <!---_<font size="2">Executive IT  AWS, Linux | Hyderabad.</font>_ <font size="1">Aug 2018 - Aug 2019</font> ---> | <!--- <img width="" height="18" src="./image/org/3i.png"> --->[_3i Infotech_](http://www.3i-infotech.com){:target="_blank"} _<font size="2"> <!---Engineer | AWS, Linux | Hyderabad.---></font>_ <font size="1"> <!---Mar 2015 - Jul 2018 ---></font> | <!--- <img width="" height="20" src="./image/org/infoservice.jpg"> ---> [_Info Services_](http://ibmesp.com){:target="_blank"}<!---_<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>_ <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> | <!--- <img width="" height="15" src="./image/org/kaizen.png"> ---> [_Kaizen IT Services_](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} <!---_<font size="2"> Engineer</font>_ <font size="1">Mar 2012 - Mar 2012 - July 2014 Jul 2018</font> <font size="1"> </font>  --->
