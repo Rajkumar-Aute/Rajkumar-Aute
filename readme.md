@@ -9,7 +9,7 @@
 > Distinguished __Kubernetes Platform and DevSecOps Architect__ with __14+ years of experience__ designing secure, scalable multi-cloud ecosystems. Expert in orchestrating __enterprise-grade Kubernetes__ clusters (EKS, AKS), automating CI/CD with _GitOps principles_ (ArgoCD, GitHub Actions/Jenkins), and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.
 
 ### Technical Skills
-> __Cloud & Platform Engineering:__ __AWS__ (EKS, ECS, IAM, WAF), __Azure__ (AKS), __Kubernetes__, Helm, Kustomize, __Terraform__ (IaC), __ArgoCD__ (GitOps).  
+> __Cloud & Platform Engineering:__ __AWS__ (EKS, ECS, IAM, ELB, API Gateway, WAF), __Azure__ (AKS), __Kubernetes__, Helm, Kustomize, __Terraform__ (IaC), __ArgoCD__ (GitOps).  
 __DevSecOps & Security:__ GitHub Actions, Jenkins, __Shift-Left Security__, Checkov, Fortify (SAST), Snyk, Wiz, Contrast Security (DAST), AWS Security Hub, GitHub Advanced Security.  
 __Scripting & Observability:__ Python (Operational Automation), Shell Scripting, Markdown, Prometheus, Grafana.  
 __Core Competencies:__ Secure-SDLC, Threat Modeling, Compliance-as-Code, FinOps (Cost Optimization), ITSM, Agile Scrum, Stakeholder Management.
