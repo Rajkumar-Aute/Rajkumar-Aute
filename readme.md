@@ -5,8 +5,8 @@
 <img width="" height="12" src="./image/other/linkedin.png"> [Linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
 <img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
-####  Cloud Native DevSecOps Architect | Kubernetes Platform Engineering | Terraform | CI/CD | Cloud Security
->__Kubernetes Platform and DevSecOps Architect__ with __14+ years of experience__ designing secure, scalable multi-cloud ecosystems. Expert in orchestrating __enterprise-grade Kubernetes__ clusters (EKS, AKS), automating CI/CD with _GitOps principles_ (ArgoCD, GitHub Actions/Jenkins), and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.  
+####  AWS DevSecOps Architect | Kubernetes Platform Engineering | Terraform | CI/CD | Cloud Security
+>__Kubernetes Platform and DevSecOps Architect__ with __14+ years of experience__ designing secure, scalable cloud ecosystems. Expert in orchestrating __enterprise-grade Kubernetes__ clusters (__EKS__, AKS), automating CI/CD with _GitOps principles_ (ArgoCD, GitHub Actions/Jenkins), and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.  
 
 ### Technical Skills
 > __Cloud & Platform Engineering:__ __AWS__ (EKS, ECS, IAM, RDS, VPC, ELB, AutoScaling, CloudFront, Route53,), __Azure__ (AKS), __Kubernetes__, Helm, Kustomize, __Terraform__ Terragrunt (IaC), __ArgoCD__ (GitOps).  
