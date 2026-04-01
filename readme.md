@@ -64,11 +64,11 @@ Handled __network infrastructure, routers, switches, and user management__ for B
 
 
 ### Honors & Awards
->[IBM](https://www.ibm.com)  ~ Awarded 5x Star and 1x Super Star; received direct client appreciation for exceptional extended production deployment and automation.  
+>[IBM](https://www.ibm.com)  ~ _Awarded 5x Star and 1x Super Star_; received client appreciation for exceptional production deployment and automation.  
 [TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing Cloud DevOps expertise and driving client project success.  
 [WHL](http://www.wonderla.com) ~ Commended by the VP of IT for successfully implementing infrastructure automation.  
 [3i Infotech](http://www.3i-infotech.com) ~ Appreciated by the clients for implementing best practices in IT service.  
-National Level Gold Medal in rifle shooting, NCC Thal Sainik Competition Camp, Delhi (2005).  
+National Level Gold Medal in rifle shooting, NCC Thal Sainik Competition Camp, Delhi (2005) and Best Cadet Award.  
 
 
 ### Education
