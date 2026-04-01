@@ -63,6 +63,14 @@ Handled __network infrastructure, routers, switches, and user management__ for B
 [__View Complete Certification Portfolio__](https://www.credly.com/users/rajkumar-aute/badges){:target="_blank"}  
 
 
+### Honors & Awards
+>[IBM](https://www.ibm.com)  ~ Awarded 5x Star and 1x Super Star; received direct client appreciation for exceptional extended production deployment and automation.  
+[TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing Cloud DevOps expertise and driving client project success.  
+[WHL](http://www.wonderla.com) ~ Commended by the VP of IT for successfully implementing infrastructure automation.  
+[3i Infotech](http://www.3i-infotech.com) ~ Appreciated by the clients for implementing best practices in IT service.  
+National Level Gold Medal in rifle shooting, NCC Thal Sainik Competition Camp, Delhi (2005).  
+
+
 ### Education
 >__PGDCA [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}__ with 62.16% in 2016  
 __Bachelor of Commerce [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}__ with 69.84% in 2013  
@@ -71,10 +79,4 @@ __[Karnataka PUE Board Bangalore](https://pue.karnataka.gov.in){:target="_blank"
 __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC__ with 47.84% in 2005
 --->
 
-#### Honors & Awards
->[IBM](https://www.ibm.com)  ~ Awarded 5x Star and 1x Super Star; received direct client appreciation for exceptional extended production support.  
-[TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing Cloud DevOps expertise and driving client project success.  
-[WHL](http://www.wonderla.com) ~ Commended by the VP of IT for successfully implementing infrastructure automation.  
-[3i Infotech](http://www.3i-infotech.com) ~ Appreciated by the clients for implementing best practices in IT service.  
-National Level Gold Medal in rifle shooting, NCC Thal Sainik Competition Camp, Delhi (2005).  
 ###### For latest Résumé [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} 
