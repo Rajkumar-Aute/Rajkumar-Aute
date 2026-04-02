@@ -37,7 +37,7 @@ Created and maintained Azure Cloud resources using Terraform and Azure DevOps to
 __Security Auditing:__ Conducted comprehensive security audits, successfully remediating critical vulnerabilities while optimizing CI/CD pipeline efficiency for cloud services.  
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
-> __Cloud Architecture:__ Designed N-Tier Architecture on AWS and Azure cloud infrastructure, resolved the L2 and L3 issues, and used Terraform for automation.  
+> __Cloud Architecture:__ Designed N-Tier Architecture on AWS and Azure cloud infrastructure, resolved L2 and L3 issues, and used Terraform for automation.  
 __Container Orchestration:__ Successfully migrated legacy applications to containerized environments using EKS, ECS, Docker and Docker Compose.  
 __Pipeline Development:__ Implemented end-to-end CI/CD pipelines utilizing Jenkins, buddy.works, Git, for multiple web hosting engines.  
 __Virtual Web Hosting:__ Deployed multiple websites using Apache Web Server and cPanel on AWS Cloud with High availability.  
