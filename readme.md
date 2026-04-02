@@ -19,16 +19,16 @@ Created a digital knowledge base to simplify complex architectural concepts for 
 
 ### Professional Experience
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Cloud DevSecOps Architect | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
-> __Infrastructure Automation:__ Reduced infrastructure provisioning time by using custom scripts eliminating manual process for resource creation.  
-__Event-Driven Operations:__ Designed and deployed Python-based AWS Lambda functions to trigger automated, event-driven operational for cost saving.  
+> __Infrastructure Automation:__ Reduced infrastructure provisioning time by using custom scripts, eliminating manual processes for resource creation.  
+__Event-Driven Operations:__ Designed and deployed Python-based AWS Lambda functions to trigger automated, event-driven operations for cost savings.  
 __Security & Compliance:__ Working on Java version upgrades and remediation of software vulnerabilities to maintain enterprise compliance and security standards. 
 
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2"> DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
->__CI/CD Optimization:__ Migrated 100+ applications from Jenkins to __GitHub Actions, and written Reusable Workflows__, reduced __build times from 20 minutes to 3-5 minutes__ implementing Cache and Parallel build. and the same reusable workflow has been utilized by other teams in the organization.  
-__Kubernetes Platform Engineering:__ Streamlined EKS Cluster operations using Terraform for provisioning Cluster and Cluster and Addons version upgrade, ensuring minimal downtime.  
+>__CI/CD Optimization:__ Migrated 100+ applications from Jenkins to __GitHub Actions, and written Reusable Workflows__, reduced __build times from 20 minutes to 3-5 minutes__ implementing caching and parallel builds. These reusable workflows were subsequently adopted by other teams across the organization.  
+__Kubernetes Platform Engineering:__ Streamlined EKS Cluster operations using Terraform for provisioning clusters and managing add-on version upgrades, ensuring minimal downtime.  
 __GitOps:__ Architected a fully automated GitOps-driven practice on AWS EKS, using __Terraform__ and __ArgoCD__ for drift-proof, multi-environment deployments.  
-__Shift-Left Security:__ Engineered a comprehensive DevSecOps posture by embedding Fortify (SAST), Contrast Security (DAST) directly into deployment pipelines, blocking critical vulnerabilities pre-production. and For infra used tfsec and checkov for infra security best practices.  
+__Shift-Left Security:__ Engineered a comprehensive DevSecOps posture by embedding Fortify (SAST), Contrast Security (DAST) directly into deployment pipelines, blocking critical vulnerabilities pre-production. and For infra used _tfsec_ and _Checkov_ for infrastructure security best practices.  
 __High Availability:__ Solely managed critical production deployments, ensuring near-zero downtime, high availability, and rapid incident resolution.  
 Created and maintained Azure Cloud resources using Terraform and Azure DevOps to support complex data analysis workloads.  
 
@@ -37,8 +37,8 @@ Created and maintained Azure Cloud resources using Terraform and Azure DevOps to
 __Security Auditing:__ Conducted comprehensive security audits, successfully remediating critical vulnerabilities while optimizing CI/CD pipeline efficiency for cloud services.  
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
-> __Cloud Architecture:__ Designed N-Tier Architecture on AWS and Azure cloud infrastructure and fixing the L2 and L3 issues and used Terraform to automate cloud infra provisioning.  
-__Container Orchestration:__ Successfully migrating legacy applications to containerized environments using EKS, ECS, Docker and Docker Compose.  
+> __Cloud Architecture:__ Designed N-Tier Architecture on AWS and Azure cloud infrastructure and resolved the L2 and L3 issues and used Terraform to automate cloud infra provisioning.  
+__Container Orchestration:__ Successfully migrated legacy applications to containerized environments using EKS, ECS, Docker and Docker Compose.  
 __Pipeline Development:__ Implemented end-to-end CI/CD pipelines utilizing Jenkins, buddy.works, Git, for multiple web hosting engines.  
 __Virtual Web Hosting:__ Deployed multiple websites using Apache Web Server and cPanel on AWS Cloud with High availability.  
 
@@ -69,7 +69,7 @@ Handled __network infrastructure, routers, switches, and user management__ for B
 [TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing Cloud DevOps expertise and driving client project success.  
 [WHL](http://www.wonderla.com) ~ Commended by the VP of IT for successfully implementing infrastructure automation.  
 [3i Infotech](http://www.3i-infotech.com) ~ Appreciated by the clients for implementing best practices in IT service.  
-National Level Gold Medal in rifle shooting, NCC Thal Sainik Competition Camp, Delhi (2005) and Best Cadet Award.  
+National-Level Gold Medalist in rifle shooting, NCC Thal Sainik Competition Camp, Delhi (2005) and Best Cadet Award.  
 
 
 ### Education
