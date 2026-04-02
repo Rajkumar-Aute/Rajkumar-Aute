@@ -25,15 +25,15 @@ __Security & Compliance:__ Working on Java version upgrades and remediation of s
 
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
->__CI/CD Optimization:__ Migrated 100+ applications from legacy Jenkins to __GitHub Actions, and written Reusable Workflows__, reduced __build times from 20 minutes to 3-5 minutes__ Automatic ArgoCD application creation, leveraging Cache, parallel build . and the same reusable workflow has been utilized by other teams in the organization.  
-__GitOps:__ Architected a GitOps-driven Kubernetes platform on AWS EKS, utilizing __Terraform__ and __ArgoCD__ for fully automated, drift-proof, multi-environment deployments.  
+>__CI/CD Optimization:__ Migrated 100+ applications from legacy Jenkins to __GitHub Actions, and written Reusable Workflows__, reduced __build times from 20 minutes to 3-5 minutes__ leveraging Cache, parallel build. and the same reusable workflow has been utilized by other teams in the organization.  
+__GitOps:__ Architected a fully automated GitOps-driven Kubernetes platform on AWS EKS, utilizing __Terraform__ and __ArgoCD__ for drift-proof, multi-environment deployments.  
 __Kubernetes Platform Engineering:__ Streamlined EKS Cluster operations by implementing Terraform for automate provisioning and Cluster version upgrade, ensuring minimal downtime.  
 __Shift-Left Security:__ Engineered a comprehensive DevSecOps posture by embedding Fortify (SAST), Contrast Security (DAST) directly into deployment pipelines, blocking critical vulnerabilities pre-production. and For infra used tfsec and checkov for infra security best practices.  
 __High Availability:__ Solely managed mission-critical production deployments, ensuring near-zero downtime, high availability, and rapid incident resolution.  
 __Multi-Cloud Provisioning:__ Created and governed Azure Cloud resources and AKS clusters using Terraform and Azure DevOps to support complex data analysis workloads.  
 
 ### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Solution Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
->__Cloud Migration:__ Led large-scale application migrations to AWS leveraging Terraform and Azure DevOps, enforcing secure cloud infrastructure architecture and best practices.  
+>__Cloud Migration:__ Led large-scale application migrations to AWS EKS leveraging Terraform and Azure DevOps, enforcing secure cloud infrastructure architecture and best practices.  
 __Security Auditing:__ Conducted comprehensive security audits, successfully remediating critical vulnerabilities while optimizing CI/CD pipeline efficiency for cloud services.  
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
