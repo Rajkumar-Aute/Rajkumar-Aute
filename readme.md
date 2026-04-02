@@ -25,10 +25,10 @@ __Security & Compliance:__ Working on Java version upgrades and remediation of s
 
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
->__CI/CD Optimization:__ Migrated 100+ applications from legacy Jenkins to __GitHub Actions, and written Reusable Workflows__, reduced __build times from 20 minutes to 3-5 minutes__ leveraging Cache and parallel build.  
+>__CI/CD Optimization:__ Migrated 100+ applications from legacy Jenkins to __GitHub Actions, and written Reusable Workflows__, reduced __build times from 20 minutes to 3-5 minutes__ Automatic ArgoCD application creation, leveraging Cache, parallel build . and the same reusable workflow has been utilized by other teams in the organization.  
 __GitOps:__ Architected a GitOps-driven Kubernetes platform on AWS EKS, utilizing __Terraform__ and __ArgoCD__ for fully automated, drift-proof, multi-environment deployments.  
- __Kubernetes Platform Engineering:__ Streamlined EKS Cluster operations by implementing Terraform for automate provisioning and Cluster version upgrade, ensuring minimal downtime.  
-__Shift-Left Security:__ Engineered a comprehensive DevSecOps posture by embedding Fortify (SAST), Contrast Security (DAST) directly into deployment pipelines, blocking critical vulnerabilities pre-production. and For infra used tfsec and checkov for infra security best practices.    
+__Kubernetes Platform Engineering:__ Streamlined EKS Cluster operations by implementing Terraform for automate provisioning and Cluster version upgrade, ensuring minimal downtime.  
+__Shift-Left Security:__ Engineered a comprehensive DevSecOps posture by embedding Fortify (SAST), Contrast Security (DAST) directly into deployment pipelines, blocking critical vulnerabilities pre-production. and For infra used tfsec and checkov for infra security best practices.  
 __High Availability:__ Solely managed mission-critical production deployments, ensuring near-zero downtime, high availability, and rapid incident resolution.  
 __Multi-Cloud Provisioning:__ Created and governed Azure Cloud resources and AKS clusters using Terraform and Azure DevOps to support complex data analysis workloads.  
 
