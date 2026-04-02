@@ -18,13 +18,13 @@ __Core Competencies:__ Secure-SDLC, Threat Modeling, Compliance-as-Code, FinOps 
 Created a digital knowledge base to simplify complex architectural concepts for the engineering community.  --->
 
 ### Professional Experience
-### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Delivery Project Lead | Cloud DevSecOps Architect | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
-> __Infrastructure Automation:__ Reduced infrastructure provisioning time by suing custom scripts eliminating manual process for resource creation.  
+### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">Cloud DevSecOps Architect | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
+> __Infrastructure Automation:__ Reduced infrastructure provisioning time by using custom scripts eliminating manual process for resource creation.  
 __Event-Driven Operations:__ Designed and deployed Python-based AWS Lambda functions to trigger automated, event-driven operational for cost saving.  
 __Security & Compliance:__ Working on Java version upgrades and remediation of software vulnerabilities to maintain enterprise compliance and security standards. 
 
 
-### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
+### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2"> DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
 >__CI/CD Optimization:__ Migrated 100+ applications from Jenkins to __GitHub Actions, and written Reusable Workflows__, reduced __build times from 20 minutes to 3-5 minutes__ implementing Cache and Parallel build. and the same reusable workflow has been utilized by other teams in the organization.  
 __Kubernetes Platform Engineering:__ Streamlined EKS Cluster operations using Terraform for provisioning Cluster and Cluster and Addons version upgrade, ensuring minimal downtime.  
 __GitOps:__ Architected a fully automated GitOps-driven practice on AWS EKS, using __Terraform__ and __ArgoCD__ for drift-proof, multi-environment deployments.  
@@ -32,17 +32,17 @@ __Shift-Left Security:__ Engineered a comprehensive DevSecOps posture by embeddi
 __High Availability:__ Solely managed critical production deployments, ensuring near-zero downtime, high availability, and rapid incident resolution.  
 Created and maintained Azure Cloud resources using Terraform and Azure DevOps to support complex data analysis workloads.  
 
-### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Solution Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
+### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">Lead Cloud DevOps Architect | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
 >__Cloud Migration:__ Led large-scale application migrations to AWS EKS using Terraform and Azure DevOps, enforcing secure cloud infrastructure architecture and best practices.  
 __Security Auditing:__ Conducted comprehensive security audits, successfully remediating critical vulnerabilities while optimizing CI/CD pipeline efficiency for cloud services.  
 
-### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Server Administrator | Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
+### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2"> Cloud Architect & DevOps | WFH.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
 > __Cloud Architecture:__ Designed N-Tier Architecture on AWS and Azure cloud infrastructure and fixing the L2 and L3 issues and used Terraform to automate cloud infra provisioning.  
 __Container Orchestration:__ Successfully migrating legacy applications to containerized environments using EKS, ECS, Docker and Docker Compose.  
 __Pipeline Development:__ Implemented end-to-end CI/CD pipelines utilizing Jenkins, buddy.works, Git, for multiple web hosting engines.  
 __Virtual Web Hosting:__ Deployed multiple websites using Apache Web Server and cPanel on AWS Cloud with High availability.  
 
-### <img width="" height="14" src="./image/org/lera.png"> [_Lera Technologies_](http://www.lera.us){:target="_blank"} _<font size="2">Senior System Administrator | Cloud Architect | Hyderabad.</font>_ <font size="1">Sep 2019 - Apr 2020.</font>  
+### <img width="" height="14" src="./image/org/lera.png"> [_Lera Technologies_](http://www.lera.us){:target="_blank"} _<font size="2">Cloud & Devops Engineer| Hyderabad.</font>_ <font size="1">Sep 2019 - Apr 2020.</font>  
 >__AWS Administration__ all common cloud services.  
 __Access & Automation:__ Managed Azure AD integrations, virtualization, and security protocols.  
 __Automated__ Java and Node based application using CI/CD workflows with Git and Jenkins.  
