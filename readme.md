@@ -25,7 +25,7 @@ __Security & Compliance:__ Working on Java version upgrades and remediation of s
 
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2"> DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
->__CI/CD Optimization:__ Migrated 100+ applications from Jenkins to __GitHub Actions, and developed reusable workflows__, reduced __build times from 20 minutes to 3-5 minutes__ by implementing caching and parallel builds, which were subsequently adopted by other teams organization-wide.  
+>__CI/CD Optimization:__ Migrated 100+ applications from Jenkins to __GitHub Actions, and developed reusable workflows__, that reduced __build times from 20 minutes to 3-5 minutes__ by implementing caching and parallel builds, which were subsequently adopted by other teams organization-wide.  
 __Kubernetes Platform Engineering:__ Streamlined EKS Cluster operations using Terraform for provisioning clusters and managing add-on version upgrades, ensuring minimal downtime.  
 __GitOps:__ Architected a fully automated GitOps-driven practice on AWS EKS, using __Terraform__ and __ArgoCD__ for drift-proof, multi-environment deployments.  
 __Shift-Left Security:__ Engineered a comprehensive DevSecOps posture by embedding Fortify (SAST), Contrast Security (DAST) directly into deployment pipelines, blocking critical vulnerabilities pre-production. Utilized tfsec and Checkov for infrastructure security best practices.  
@@ -45,11 +45,11 @@ __Virtual Web Hosting:__ Deployed multiple websites using Apache Web Server and 
 ### <img width="" height="14" src="./image/org/lera.png"> [_Lera Technologies_](http://www.lera.us){:target="_blank"} _<font size="2">Cloud & Devops Engineer| Hyderabad.</font>_ <font size="1">Sep 2019 - Apr 2020.</font>  
 >__AWS Administration__ all common cloud services.  
 __Access & Automation:__ Managed Azure AD integrations, virtualization, and security protocols.  
-__Automated__ Java and Node based application using CI/CD workflows with Git and Jenkins.  
+__Automated__ Java and Node-based application using CI/CD workflows with Git and Jenkins.  
 
 ##### Previous Experience (2012 - 2019)
 ### <!--- <img width="" height="14" src="./image/org/wla.png"> ---> [_Wonderla_](http://www.wonderla.com){:target="_blank"} <!---_<font size="2">Executive IT  AWS, Linux | Hyderabad.</font>_ <font size="1">Aug 2018 - Aug 2019</font> ---> | <!--- <img width="" height="18" src="./image/org/3i.png"> --->[_3i Infotech_](http://www.3i-infotech.com){:target="_blank"} _<font size="2"> <!---Engineer | AWS, Linux | Hyderabad.---></font>_ <font size="1"> <!---Mar 2015 - Jul 2018 ---></font> | <!--- <img width="" height="20" src="./image/org/infoservice.jpg"> ---> [_Info Services_](http://ibmesp.com){:target="_blank"}<!---_<font size="2"> Support Engineer | Windows,Network | Clients-MAFIL</font>_ <font size="1">Aug 2014 - Mar 2015.</font> <font size="1"> </font>---> | <!--- <img width="" height="15" src="./image/org/kaizen.png"> ---> [_Kaizen IT Services_](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"} <!---_<font size="2"> Engineer</font>_ <font size="1">Mar 2012 - Mar 2012 - July 2014 Jul 2018</font> <font size="1"> </font>  --->
-> Supported Cloud infrastructure creation to set up cloud based billing and database servers  
+> Supported Cloud infrastructure creation to set up cloud-based billing and database servers  
 Achieved 98% service uptime for billing applications and websites hosted on VMware ESXi, Linux, Database, and Windows ADDC servers.   
 Administered infrastructure & managed Physical and Virtual Servers.  
 Handled __network infrastructure, routers, switches, and user management__ for Banking and NBFC.  
