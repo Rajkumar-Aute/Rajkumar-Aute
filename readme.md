@@ -6,10 +6,10 @@
 <img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
 ####  AWS DevSecOps Architect | Kubernetes Platform Engineering | Terraform | CI/CD | Cloud Security
->__Kubernetes Platform and DevSecOps Architect__ with __14+ years of experience__ designing secure, scalable cloud ecosystems. Expert in orchestrating __enterprise-grade Kubernetes__ clusters (__EKS__, AKS), automating CI/CD with _GitOps principles_ (ArgoCD, GitHub Actions/Jenkins), and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.  
+>__Kubernetes Platform and DevSecOps Architect__ with __14+ years of experience__ designing secure, scalable cloud ecosystems. Expert in orchestrating __enterprise-grade Kubernetes__ clusters (__EKS__, AKS), automating CI/CD (GitHub Actions/Jenkins) with _GitOps principles_ (ArgoCD), and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.  
 
 ### Technical Skills
-> __Cloud & Platform Engineering:__ __AWS__ (EKS, ECS, IAM, RDS, VPC, ELB, AutoScaling, CloudFront, Route53,), __Azure__ (AKS), __Kubernetes__, Helm, Kustomize, __Terraform__ Terragrunt (IaC), __ArgoCD__ (GitOps).  
+> __Cloud & Platform Engineering:__ __AWS__ (EKS, ECS, EC2, IAM, S3, RDS, VPC, ELB, AutoScaling, CloudFront, Route53,), __Azure__ (AKS), __Kubernetes__, Helm, Kustomize, __Terraform__ Terragrunt (IaC), __ArgoCD__ (GitOps).  
 __DevSecOps & Security:__ GitHub Actions, Jenkins, __Shift-Left Security__, tfSec, Checkov, Fortify, SonarQube (SAST), Snyk, Wiz, Contrast Security (DAST), AWS Security Hub, GitHub Advanced Security.  
 __Scripting & Observability:__ Python (Operational Automation), Shell Scripting, Markdown, Prometheus, Grafana.  
 __Core Competencies:__ Secure-SDLC, Threat Modeling, Compliance-as-Code, FinOps (Cost Optimization), ITSM, Agile Scrum, Stakeholder Management.
@@ -25,11 +25,11 @@ __Security & Compliance:__ Working on Java version upgrades and remediation of s
 
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">Application Developer | DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
->__CI/CD Optimization:__ Migrated 100+ applications from legacy Jenkins to __GitHub Actions, and written Reusable Workflows__, reduced __build times from 20 minutes to 3-5 minutes__ leveraging Cache, parallel build. and the same reusable workflow has been utilized by other teams in the organization.  
-__GitOps:__ Architected a fully automated GitOps-driven Kubernetes platform on AWS EKS, utilizing __Terraform__ and __ArgoCD__ for drift-proof, multi-environment deployments.  
+>__CI/CD Optimization:__ Migrated 100+ applications from Jenkins to __GitHub Actions, and written Reusable Workflows__, reduced __build times from 20 minutes to 3-5 minutes__ leveraging Cache, parallel build. and the same reusable workflow has been utilized by other teams in the organization.  
 __Kubernetes Platform Engineering:__ Streamlined EKS Cluster operations by implementing Terraform for automate provisioning and Cluster version upgrade, ensuring minimal downtime.  
+__GitOps:__ Architected a fully automated GitOps-driven Kubernetes platform on AWS EKS, utilizing __Terraform__ and __ArgoCD__ for drift-proof, multi-environment deployments.  
 __Shift-Left Security:__ Engineered a comprehensive DevSecOps posture by embedding Fortify (SAST), Contrast Security (DAST) directly into deployment pipelines, blocking critical vulnerabilities pre-production. and For infra used tfsec and checkov for infra security best practices.  
-__High Availability:__ Solely managed mission-critical production deployments, ensuring near-zero downtime, high availability, and rapid incident resolution.  
+__High Availability:__ Solely managed critical production deployments, ensuring near-zero downtime, high availability, and rapid incident resolution.  
 __Multi-Cloud Provisioning:__ Created and governed Azure Cloud resources and AKS clusters using Terraform and Azure DevOps to support complex data analysis workloads.  
 
 ### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">IT Analyst | Lead Cloud Solution Architect & DevOps | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
