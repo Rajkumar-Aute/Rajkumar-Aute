@@ -21,19 +21,19 @@ Created a digital knowledge base to simplify complex architectural concepts for 
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">| Cloud DevSecOps Architect | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > __Infrastructure Automation:__ Reduced infrastructure provisioning time by using custom scripts, eliminating manual processes for resource creation.  
 __Event-Driven Operations:__ Designed and deployed Python-based AWS Lambda functions to trigger automated, event-driven operations for cost savings.  
-__Security & Compliance:__ Working on Java version upgrades and remediation of software vulnerabilities to maintain enterprise compliance and security standards. 
+__Security & Compliance:__ Working on Java version upgrades and vulnerability remediation by leveraging Large Language Models (AI LLMs) to accelerate code refactoring and ensure alignment with enterprise security standards. 
 
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">| DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
->__CI/CD Optimization:__ Migrated 100+ applications from Jenkins to __GitHub Actions and developed reusable workflows__ that reduced __build times from 20 minutes to 3-5 minutes__ by implementing caching and parallel builds, which were subsequently adopted by other teams organization-wide.  
+>__CI/CD Optimization:__ Migrated Application and Infrastructure CI/CD pipeline from Jenkins to __GitHub Actions and developed reusable workflows__ that reduced __build times from 20 minutes to 3-5 minutes__ by implementing caching, parallel builds and Implemented approval gates for production deployments. Which were subsequently adopted by other teams organization-wide.  
 __Kubernetes Platform Engineering:__ Streamlined EKS Cluster operations using Terraform for provisioning clusters and managing add-on version upgrades, ensuring minimal downtime.  
-__GitOps:__ Architected a fully automated GitOps-driven practice on AWS EKS, using __Terraform__ and __ArgoCD__ for drift-proof, multi-environment deployments.  
+__GitOps:__ Architected and migrated thousands of application to a fully automated GitOps-driven practice on AWS EKS, using __Terraform__ and __ArgoCD__ for drift-proof, multi-environment deployments.  
 __Shift-Left Security:__ Engineered a comprehensive DevSecOps posture by embedding Fortify (SAST), Contrast Security (DAST) directly into deployment pipelines, blocking critical vulnerabilities pre-production. Utilized tfsec and Checkov for infrastructure security best practices.  
 __High Availability:__ Solely managed critical production deployments, ensuring near-zero downtime, high availability, and rapid incident resolution.  
 Created and maintained Azure Cloud resources using Terraform and Azure DevOps to support complex data analysis workloads.  
 
 ### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">| Lead Cloud DevOps Architect | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
->__Cloud Migration:__ Led large-scale application migrations to AWS EKS using Terraform and Azure DevOps, enforcing secure cloud infrastructure architecture and best practices.  
+>__Cloud Migration:__ Led large-scale application migrations on-premises to AWS EKS using Terraform and Azure DevOps, enforcing secure cloud infrastructure architecture and best practices.  
 __Security Auditing:__ Conducted comprehensive security audits, successfully remediating critical vulnerabilities while optimizing CI/CD pipeline efficiency for cloud services.  
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2">| Cloud Architect & DevOps | Remote.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
