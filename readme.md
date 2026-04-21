@@ -48,7 +48,7 @@ __Access & Automation:__ Managed Azure AD integrations, virtualization, and secu
 __Automated__ Java and Node-based applications using CI/CD workflows with Git and Jenkins.  
 
 ##### Previous Experience (2012 - 2019)
-### [_Wonderla_](http://www.wonderla.com){:target="_blank"} | [_IBM_](https://www.ibm.com){:target="_blank"} <font size="2"> Contracted via [_3i Infotech_](http://www.3i-infotech.com){:target="_blank"} _<font size="2"> </font>_ <font size="1"></font>, [_Info Services_](http://ibmesp.com){:target="_blank"} [_Kaizen IT Services_](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"}
+### [_Wonderla_](http://www.wonderla.com){:target="_blank"} | _IBM_ Contracted via [_3i Infotech_](http://www.3i-infotech.com){:target="_blank"} _<font size="2"> </font>_ <font size="1"></font>, [_Info Services_](http://ibmesp.com){:target="_blank"} [_Kaizen IT Services_](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"}
 > Supported Cloud infrastructure creation to set up cloud-based billing and database servers  
 Achieved 98% service uptime for billing applications and websites hosted on VMware ESXi, Linux, Database, and Windows ADDC servers.   
 Administered infrastructure & managed Physical and Virtual Servers.  
