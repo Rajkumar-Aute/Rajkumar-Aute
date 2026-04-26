@@ -81,3 +81,7 @@ __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10
 --->
 
 ###### For latest resume [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} 
+
+<div style="page-break-after: always;"></div>
+
+Page 2
