@@ -61,7 +61,7 @@ Handled __network infrastructure, routers, switches, and user management__ for B
 <img width="" height="14" src="./image/cert/azure-administrator-associate.png"> [__Microsoft Certified Azure Administrator Associate__](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"></font>  
 <img width="" height="14" src="./image/cert/cybersecurity.png"> [__Ethical Hacking and Countermeasures Expert__](./image/cert/Rajkumar_Aute_EHCE_Certificate.pdf){:target="_blank"}   
 <img width="" height="14" src="./image/cert/redhat.png"> [__Red Hat Certified Engineer__](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}<!--- <font size="1"> ~ Jul 2018</font> --->  
-[__View Complete Certification Portfolio__](https://www.credly.com/users/rajkumar-aute/badges){:target="_blank"}  
+[__View Complete Certification Portfolio__](https://rajkumar-aute.github.io/Rajkumar-Aute/#additional-certifications){:target="_blank"}  
 
 
 ### Honors & Awards
@@ -84,4 +84,6 @@ __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10
 
 <div style="page-break-after: always;"></div>
 
-Page 2
+### Additional Certifications
+> <img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude 101__](./image/cert/ai/Antrhropic-claude-101.pdf){:target="_blank"}   
+<img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude Code 101__](./image/cert/ai/Antrhropic-claude-code-101.pdf){:target="_blank"}   
