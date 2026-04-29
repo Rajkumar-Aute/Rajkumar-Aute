@@ -9,7 +9,7 @@
 >__Kubernetes Platform and DevSecOps Architect__ with __14+ years of experience__ designing secure, scalable cloud ecosystems. Expert in orchestrating __enterprise-grade Kubernetes__ clusters (__EKS__, AKS), automating CI/CD (GitHub Actions/Jenkins) with _GitOps principles_ (ArgoCD), and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.  
 
 ### Technical Skills
-> __Cloud & Platform Engineering:__ __AWS__ (EKS, ECS, EC2, IAM, S3, RDS, VPC, ELB, AutoScaling, CloudFront, Route53), __Azure__ (AKS), __Kubernetes__, Helm, Kustomize, __Terraform__, Terragrunt (IaC), __ArgoCD__ (GitOps).  
+> __Cloud & Platform Engineering:__ __AWS__ (EKS, ECS, EC2, IAM, S3, RDS, VPC, ELB, AutoScaling, CloudFront, Route53 etc.), __Azure__ (AKS), __Kubernetes__, Helm, Kustomize, __Terraform__, Terragrunt (IaC), __ArgoCD__ (GitOps).  
 __DevSecOps & CyberSecurity:__ GitHub Actions, Jenkins, __Shift-Left Security__, tfSec, Checkov, Fortify, SonarQube (SAST), Snyk, Wiz, Contrast Security (DAST), AWS Security Hub, GitHub Advanced Security.  
 __Scripting & Observability:__ Python (Operational Automation), Shell Scripting, Markdown, Prometheus, Grafana.  
 __Core Competencies:__ Secure-SDLC, Threat Modeling, Compliance-as-Code, FinOps (Cost Optimization), ITSM, Agile Scrum, Stakeholder Management.
@@ -19,9 +19,8 @@ Created a digital knowledge base to simplify complex architectural concepts for 
 
 ### Professional Experience
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">| Cloud DevSecOps Architect | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
-> __Infrastructure Automation:__ Reduced infrastructure provisioning time by using custom scripts, eliminating manual processes for resource creation.  
-__Event-Driven Operations:__ Designed and deployed Python-based AWS Lambda functions to trigger automated, event-driven operations for cost savings.  
-__Security & Compliance:__ Working on Java version upgrades and vulnerability remediation by leveraging Large Language Models (AI LLMs) to accelerate code refactoring and ensure alignment with enterprise security standards. 
+> __Security & Compliance:__ Working on Terraform enterprise modules update for security fixes and Java version upgrades and vulnerability remediation by leveraging Large Language Models (AI LLMs) to accelerate code refactoring and ensure alignment with enterprise security standards.  
+__Infrastructure Automation:__ Reduced infrastructure provisioning time by using custom scripts, eliminating manual processes for resource creation.  
 
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">| DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
@@ -38,6 +37,7 @@ __Security Auditing:__ Conducted comprehensive security audits, successfully rem
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2">| Cloud Architect & DevOps | Remote.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
 > __Cloud Architecture:__ Designed N-Tier Architecture on AWS and Azure cloud infrastructure, resolved L2 and L3 issues, and used Terraform for automation.  
+__Cluster Provisioning:__ Used Terraform to architect and deploy EKS clusters, including VPC networking, IAM roles, and managed node groups.
 __Container Orchestration:__ Successfully migrated legacy applications to containerized environments using EKS, ECS, Docker and Docker Compose.  
 __Pipeline Development:__ Implemented end-to-end CI/CD pipelines utilizing Jenkins, buddy.works, Git, for multiple web hosting engines.  
 __Virtual Web Hosting:__ Deployed multiple websites using Apache Web Server and cPanel on AWS Cloud with High availability.  
@@ -61,8 +61,7 @@ Handled __network infrastructure, routers, switches, and user management__ for B
 <img width="" height="14" src="./image/cert/azure-administrator-associate.png"> [__Microsoft Certified Azure Administrator Associate__](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}<font size="1"></font>  
 <img width="" height="14" src="./image/cert/cybersecurity.png"> [__Ethical Hacking and Countermeasures Expert__](./image/cert/Rajkumar_Aute_EHCE_Certificate.pdf){:target="_blank"}   
 <img width="" height="14" src="./image/cert/redhat.png"> [__Red Hat Certified Engineer__](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}  
-[__View Complete Certification Portfolio__](https://www.credly.com/users/rajkumar-aute/){:target="_blank"}  
-
+[__View Complete Certification Portfolio__](https://rajkumar-aute.github.io/Rajkumar-Aute/index.html#additional-certifications){:target="_blank"}  
 
 ### Honors & Awards
 >[IBM](https://www.ibm.com)  ~ _Awarded 5x Star and 1x Super Star_; received client appreciation for exceptional production deployment and automation.  
@@ -94,3 +93,4 @@ __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10
 <img width="" height="14" src="./image/cert/IBM_Garage_Essentials.png"> [__IBM Garage Essentials__](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa){:target="_blank"}   
 <img width="" height="14" src="./image/cert/IBM-Agile-Explorer.png"> [__IBM Agile Explorer__](https://www.credly.com/badges/c3e6edb8-0874-4a87-8013-b8858b78f153){:target="_blank"}   
 <img width="" height="14" src="./image/cert/oracle.jpg"> [__Oracle Cloud Infrastructure Foundations 2020 Certified Associate__](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa){:target="_blank"}   
+[__Credly Complete Certification Portfolio__](https://www.credly.com/users/rajkumar-aute/){:target="_blank"}  
