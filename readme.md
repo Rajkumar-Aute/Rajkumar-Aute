@@ -61,7 +61,7 @@ Handled __network infrastructure, routers, switches, and user management__ for B
 <img width="" height="14" src="./image/cert/azure-administrator-associate.png"> [__Microsoft Certified Azure Administrator Associate__](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}  
 <img width="" height="14" src="./image/cert/cybersecurity.png"> [__Ethical Hacking and Countermeasures Expert__](./image/cert/Rajkumar_Aute_EHCE_Certificate.pdf){:target="_blank"}   
 <img width="" height="14" src="./image/cert/redhat.png"> [__Red Hat Certified Engineer__](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}  
-[__Credly Complete Certification Portfolio__](https://www.credly.com/users/rajkumar-aute/){:target="_blank"}  
+[__List of other Certifications__](https://www.credly.com/users/rajkumar-aute/){:target="_blank"}  
 
 ### Honors & Awards
 >[IBM](https://www.ibm.com)  ~ _Awarded 5x Star and 1x Super Star_; received client appreciation for exceptional production deployment and automation.  
