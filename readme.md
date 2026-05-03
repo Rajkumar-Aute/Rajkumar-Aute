@@ -85,7 +85,7 @@ __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10
 <div style="page-break-after: always;"></div>
 
 ### Additional Certifications
-> <img width="" height="14" src="./image/cert/Python-logo.svg"> [__Python Programming from Skill India Digital Hub__](./image/cert/python%20cert%20skillindia.pdf){:target="_blank"}   
+> <img width="" height="14" src="./image/cert/Python-logo.svg"> [__Python Programming from Skill India Digital Hub__](https://ty.sidh.io/?GpP44){:target="_blank"}   
 <img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude 101__](https://verify.skilljar.com/c/ki6g7s6co2d9){:target="_blank"}   
 <img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude Code 101__](https://verify.skilljar.com/c/zofgbbanxxfs){:target="_blank"}   
 <img width="" height="14" src="./image/cert/IBM-watsonx-Essentials.png"> [__IBM watsonx Essentials__](https://www.credly.com/badges/9dc58059-66af-4c0d-ae7a-9f84dd2bc402){:target="_blank"}   
