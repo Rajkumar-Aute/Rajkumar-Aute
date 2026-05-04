@@ -57,7 +57,7 @@ Handled __network infrastructure, routers, switches, and user management__ for B
 ### Certifications
 > <img width="" height="14" src="./image/cert/cka.svg"> [__Certified Kubernetes Administrator (CKA)__](https://www.credly.com/badges/0dee1521-344c-4602-8f7a-a59983613b8b/public_url){:target="_blank"}   
 <img width="" height="14" src="./image/cert/DevSecOps-Essentials.png"> [__IBM DevSecOps Essentials__](https://www.credly.com/badges/e19cb742-c05c-40d8-9d2e-979a92a4fedb/public_url){:target="_blank"}   
-<img width="" height="14" src="./image/cert/Python-logo.svg"> [__Python Essentials from Scaler__](https://moonshot.scaler.com/s/li/YNpxsX_A_c){:target="_blank"}   
+<img width="" height="14" src="./image/cert/Python-logo.svg"> [__Python Essentials from Scaler__](https://moonshot.scaler.com/s/li/YNpxsX_A_c){:target="_blank"} | <img width="" height="14" src="./image/cert/Python-logo.svg"> [__Python Programming from Skill India Digital Hub__](./image/cert/python%20cert%20skillindia.pdf){:target="_blank"}   
 <img width="" height="14" src="./image/cert/AWS_Architect_Associate.png"> [__AWS Certified Solutions Architect - Associate__](https://www.credly.com/badges/950ba75b-a8e7-4439-836f-d376c0427560?source=linked_in_profile){:target="_blank"}  
 <img width="" height="14" src="./image/cert/azure-administrator-associate.png"> [__Microsoft Certified Azure Administrator Associate__](https://www.credly.com/badges/0ca6c8a7-e631-4a79-8270-bc94404d1705?source=linked_in_profile){:target="_blank"}  
 <img width="" height="14" src="./image/cert/cybersecurity.png"> [__Ethical Hacking and Countermeasures Expert__](./image/cert/Rajkumar_Aute_EHCE_Certificate.pdf){:target="_blank"}   
@@ -85,8 +85,7 @@ __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10
 <div style="page-break-after: always;"></div>
 
 ### Additional Certifications
-> <img width="" height="14" src="./image/cert/Python-logo.svg"> [__Python Programming from Skill India Digital Hub__](./image/cert/python%20cert%20skillindia.pdf){:target="_blank"}   
-<img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude 101__](https://verify.skilljar.com/c/ki6g7s6co2d9){:target="_blank"}   
+> <img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude 101__](https://verify.skilljar.com/c/ki6g7s6co2d9){:target="_blank"}   
 <img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude Code 101__](https://verify.skilljar.com/c/zofgbbanxxfs){:target="_blank"}   
 <img width="" height="14" src="./image/cert/IBM-watsonx-Essentials.png"> [__IBM watsonx Essentials__](https://www.credly.com/badges/9dc58059-66af-4c0d-ae7a-9f84dd2bc402){:target="_blank"}   
 <img width="" height="14" src="./image/cert/IBM-Security-Privacy-by-Design-Foundational.png"> [__Security and Privacy by Design Foundations__](https://www.credly.com/badges/9d566f46-fdc4-4c49-ab6b-270e54da0768){:target="_blank"}   
