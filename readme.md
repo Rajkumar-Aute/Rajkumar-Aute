@@ -83,18 +83,17 @@ __[Karnataka PUE Board Bangalore](https://pue.karnataka.gov.in){:target="_blank"
 __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC__ with 47.84% in 2005
 --->
 
-###### For latest resume [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} 
+###### latest resume [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} 
 
-<div style="page-break-after: always;"></div>
+<!-- <div style="page-break-after: always;"></div> -->
 
 ### Additional Certifications
-> <img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude 101__](https://verify.skilljar.com/c/ki6g7s6co2d9){:target="_blank"}   
-<img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude Code 101__](https://verify.skilljar.com/c/zofgbbanxxfs){:target="_blank"}   
-<img width="" height="14" src="./image/cert/IBM-watsonx-Essentials.png"> [__IBM watsonx Essentials__](https://www.credly.com/badges/9dc58059-66af-4c0d-ae7a-9f84dd2bc402){:target="_blank"}   
-<img width="" height="14" src="./image/cert/IBM-Security-Privacy-by-Design-Foundational.png"> [__Security and Privacy by Design Foundations__](https://www.credly.com/badges/9d566f46-fdc4-4c49-ab6b-270e54da0768){:target="_blank"}   
-<img width="" height="14" src="./image/cert/IBM-enterprise-design-thinking-practitioner.png"> [__Enterprise Design Thinking Practitioner__](https://www.credly.com/badges/9f172c65-e442-43be-b2cb-d07f22c28395){:target="_blank"}   
-<img width="" height="14" src="./image/cert/IBM_Consulting_Way.png"> [__IBM Consulting Way Habits - Foundational__](https://www.credly.com/badges/22a02dc8-4977-4212-866a-4ad290c72438){:target="_blank"}   
+> <img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude 101__](https://verify.skilljar.com/c/ki6g7s6co2d9){:target="_blank"} | 
+<img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude Code 101__](https://verify.skilljar.com/c/zofgbbanxxfs){:target="_blank"} | 
+<img width="" height="14" src="./image/cert/IBM-watsonx-Essentials.png"> [__IBM watsonx Essentials__](https://www.credly.com/badges/9dc58059-66af-4c0d-ae7a-9f84dd2bc402){:target="_blank"} |
+<img width="" height="14" src="./image/cert/IBM-Security-Privacy-by-Design-Foundational.png"> [__Security and Privacy by Design Foundations__](https://www.credly.com/badges/9d566f46-fdc4-4c49-ab6b-270e54da0768){:target="_blank"} | 
+<img width="" height="14" src="./image/cert/IBM-enterprise-design-thinking-practitioner.png"> [__Enterprise Design Thinking Practitioner__](https://www.credly.com/badges/9f172c65-e442-43be-b2cb-d07f22c28395){:target="_blank"} | 
+<img width="" height="14" src="./image/cert/IBM_Consulting_Way.png"> [__IBM Consulting Way Habits - Foundational__](https://www.credly.com/badges/22a02dc8-4977-4212-866a-4ad290c72438){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/IBM_Garage_Essentials.png"> [__IBM Garage Essentials__](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa){:target="_blank"}   
-<img width="" height="14" src="./image/cert/IBM-Agile-Explorer.png"> [__IBM Agile Explorer__](https://www.credly.com/badges/c3e6edb8-0874-4a87-8013-b8858b78f153){:target="_blank"}   
-<img width="" height="14" src="./image/cert/oracle.jpg"> [__Oracle Cloud Infrastructure Foundations 2020 Certified Associate__](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa){:target="_blank"}   
-
+<img width="" height="14" src="./image/cert/IBM-Agile-Explorer.png"> [__IBM Agile Explorer__](https://www.credly.com/badges/c3e6edb8-0874-4a87-8013-b8858b78f153){:target="_blank"} | 
+<img width="" height="14" src="./image/cert/oracle.jpg"> [__Oracle Cloud Infrastructure Foundations 2020 Certified Associate__](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa){:target="_blank"} |
