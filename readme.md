@@ -83,6 +83,8 @@ __[Karnataka PUE Board Bangalore](https://pue.karnataka.gov.in){:target="_blank"
 __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC__ with 47.84% in 2005
 --->
 
+###### latest resume [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} 
+
 
 <!-- <div style="page-break-after: always;"></div> -->
 
@@ -96,5 +98,3 @@ __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10
 <img width="" height="14" src="./image/cert/IBM_Garage_Essentials.png"> [__IBM Garage Essentials__](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/IBM-Agile-Explorer.png"> [__IBM Agile Explorer__](https://www.credly.com/badges/c3e6edb8-0874-4a87-8013-b8858b78f153){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/oracle.jpg"> [__Oracle Cloud Infrastructure Foundations 2020 Certified Associate__](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa){:target="_blank"} |
-
-###### latest resume [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} 
