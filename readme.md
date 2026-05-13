@@ -21,10 +21,13 @@ Created a digital knowledge base to simplify complex architectural concepts for 
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">| Cloud DevSecOps Architect | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > __Security & Compliance:__ Working on Terraform enterprise modules update for security fixes and Java version upgrades and vulnerability remediation by leveraging Large Language Models (AI LLMs) to accelerate code refactoring and ensure alignment with enterprise security standards.  
 __Infrastructure Automation:__ Reduced infrastructure provisioning time by using custom scripts, eliminating manual processes for resource creation.  
+__Geek Support:__ Mentoring other projects engineers on AWS, Kubernetes and Terraform related task and best practices, security hardening, and cloud architecture principles.  
 
 
 ### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">| DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
->__CI/CD Optimization:__ Migrated Application and Infrastructure CI/CD pipeline from Jenkins to __GitHub Actions and developed reusable workflows__ that reduced __build times from 20 minutes to 3-5 minutes__ by implementing caching, parallel builds and Implemented approval gates for production deployments. Which were subsequently adopted by other teams organization-wide.  
+> __Cloud architecture:__ Architected and proposed secure, scalable solutions for high availability and cost efficiency.  
+__FinOps:__ Analyzed and optimized cloud cost where ever possible.  
+__CI/CD Optimization:__ Migrated Application and Infrastructure CI/CD pipeline from Jenkins to __GitHub Actions and developed reusable workflows__ that reduced __build times from 20 minutes to 3-5 minutes__ by implementing caching, parallel builds and Implemented approval gates for production deployments. Which were subsequently adopted by other teams organization-wide.  
 __Kubernetes Platform Engineering:__ Streamlined EKS Cluster operations using Terraform for provisioning clusters and managing add-on version upgrades, ensuring minimal downtime.  
 __GitOps:__ Architected and migrated thousands of micro-apps to a fully automated GitOps-driven practice on AWS EKS, using __Terraform__ and __ArgoCD__ for drift-proof, multi-environment deployments.  
 __Shift-Left Security:__ Engineered a comprehensive DevSecOps posture by embedding Fortify (SAST), Contrast Security (DAST) directly into deployment pipelines, blocking critical vulnerabilities pre-production. Utilized tfsec and Checkov for infrastructure cloud security best practices.  
@@ -36,9 +39,9 @@ Created and maintained Azure Cloud resources using Terraform and Azure DevOps to
 __Security Auditing:__ Conducted comprehensive security audits, successfully remediating critical vulnerabilities while optimizing CI/CD pipeline efficiency for cloud services.  
 
 ### <img width="" height="14" src="./image/org/devdigital.jpg"> [_DevDigital_](http://www.devdigital.com){:target="_blank"} _<font size="2">| Cloud Architect & DevOps | Remote.</font>_ <font size="1">May 2020 - Nov 2020.</font>  
-> __Cloud Architecture:__ Designed N-Tier Architecture on AWS and Azure cloud infrastructure, resolved L2 and L3 issues, and used Terraform for automation.  
+> __Cloud Architecture:__ Designed N-Tier Architecture on AWS and Azure cloud infrastructure considering security, compliance and cost-efficiency.  
 __Cluster Provisioning:__ Used Terraform to architect and deploy EKS clusters, including VPC networking, IAM roles, and managed node groups.  
-__Container Orchestration:__ Successfully migrated legacy applications to containerized environments using EKS, ECS, Docker and Docker Compose.  
+__Container Orchestration:__ Successfully migrated legacy applications to containerized environments using EKS, ECS, Docker, Docker Compose and used Terraform for automation.  
 __Pipeline Development:__ Implemented end-to-end CI/CD pipelines utilizing Jenkins, buddy.works, Git, for multiple web hosting engines.  
 __Virtual Web Hosting:__ Deployed multiple websites using Apache Web Server and cPanel on AWS Cloud with High availability.  
 
