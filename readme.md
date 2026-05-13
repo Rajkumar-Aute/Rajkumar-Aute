@@ -5,10 +5,10 @@
 <img width="" height="12" src="./image/other/linkedin.png"> [Linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
 <img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
-#####  AWS DevSecOps Architect | Kubernetes Platform Engineering | Terraform | CI/CD | Cyber Security
+####  AWS DevSecOps Architect | Kubernetes Platform Engineering | Terraform | CI/CD | Cyber Security
 >__Kubernetes Platform and DevSecOps Architect__ with __14+ years of experience__ designing secure, scalable cloud ecosystems. Expert in orchestrating __enterprise-grade Kubernetes__ clusters (__EKS__, AKS), automating CI/CD (GitHub Actions/Jenkins) with _GitOps principles_ (ArgoCD), and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.  
 
-#### Technical Skills
+### Technical Skills
 > __Cloud & Platform Engineering:__ __AWS__ (EKS, ECS, EC2, IAM, S3, RDS, VPC, ELB, AutoScaling, CloudFront, Route53 etc.), __Azure__ (AKS), __Kubernetes__, Helm, Kustomize, __Terraform__, Terragrunt (IaC), __ArgoCD__ (GitOps).  
 __DevSecOps & CyberSecurity:__ GitHub Actions, Jenkins, __Shift-Left Security__, tfSec, Checkov, Fortify, SonarQube (SAST), Snyk, Wiz, Contrast Security (DAST), AWS Security Hub, GitHub Advanced Security.  
 __Scripting & Observability:__ Python (Operational Automation), Shell Scripting, Markdown, Prometheus, Grafana.  
@@ -17,7 +17,7 @@ __Core Competencies:__ Secure-SDLC, Threat Modeling, Compliance-as-Code, FinOps 
 > Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, and Cloud Security.  
 Created a digital knowledge base to simplify complex architectural concepts for the engineering community.  --->
 
-#### Professional Experience
+### Professional Experience
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">| Cloud DevSecOps Architect | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > __Security & Compliance:__ Working on Terraform enterprise modules update for security fixes and Java version upgrades and vulnerability remediation by leveraging Large Language Models (AI LLMs) to accelerate code refactoring and ensure alignment with enterprise security standards.  
 __Infrastructure Automation:__ Reduced infrastructure provisioning time by using custom scripts, eliminating manual processes for resource creation.  
@@ -50,14 +50,14 @@ __Virtual Web Hosting:__ Deployed multiple websites using Apache Web Server and 
 __Access & Automation:__ Managed Azure AD integrations, virtualization, and security protocols.  
 __Automated__ Java and Node-based applications using CI/CD workflows with Git and Jenkins.  
 
-##### Previous Experience (2012 - 2019)
+#### Previous Experience (2012 - 2019)
 ### [_Wonderla_](http://www.wonderla.com){:target="_blank"} | [_IBM_](http://www.ibm.com){:target="_blank"} <font size="3"> Contracted via </font> [_3i Infotech_](http://www.3i-infotech.com){:target="_blank"} _<font size="2"> </font>_ <font size="1"></font>, [_Info Services_](http://ibmesp.com){:target="_blank"}, [_Kaizen IT Services_](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"}
 > Supported Cloud infrastructure creation to set up cloud-based billing and database servers  
 Achieved 98% service uptime for billing applications and websites hosted on VMware ESXi, Linux, Database, and Windows ADDC servers.   
 Administered infrastructure & managed Physical and Virtual Servers.  
 Handled __network infrastructure, routers, switches, and user management__ for Banking and NBFC.  
 
-#### Certifications
+### Certifications
 > <img width="" height="14" src="./image/cert/cka.svg"> [__Certified Kubernetes Administrator (CKA)__](https://www.credly.com/badges/0dee1521-344c-4602-8f7a-a59983613b8b/public_url){:target="_blank"} | <img width="" height="14" src="./image/cert/cks.png"> __Certified Kubernetes Security Specialist (CKS)__ ___In Progress___    
 <img width="" height="14" src="./image/cert/DevSecOps-Essentials.png"> [__IBM DevSecOps Essentials__](https://www.credly.com/badges/e19cb742-c05c-40d8-9d2e-979a92a4fedb/public_url){:target="_blank"}   
 <img width="" height="14" src="./image/cert/Python-logo.svg"> [__Python Essentials from Scaler__](https://moonshot.scaler.com/s/li/YNpxsX_A_c){:target="_blank"} | <img width="" height="14" src="./image/cert/Python-logo.svg"> [__Python Programming from Skill India Digital Hub__](./image/cert/python%20cert%20skillindia.pdf){:target="_blank"}   
@@ -67,7 +67,7 @@ Handled __network infrastructure, routers, switches, and user management__ for B
 <img width="" height="14" src="./image/cert/redhat.png"> [__Red Hat Certified Engineer__](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}  
 [__List of other Certifications__](https://www.credly.com/users/rajkumar-aute/){:target="_blank"}  
 
-#### Honors & Awards
+### Honors & Awards
 >[IBM](https://www.ibm.com)  ~ _Awarded 5x Star and 1x Super Star_; received client appreciation for exceptional production deployment and automation.  
 [TCS](http://www.tcs.com) ~ Achieved [__TCS Gems, Contextual Master__](https://www.tcs.com/tcs-way/contextual-knowledge-mastery-tcs-client-growth){:target="_blank"} Award for sharing Cloud DevOps expertise and driving client project success.  
 [WHL](http://www.wonderla.com) ~ Commended by the VP of IT for successfully implementing infrastructure automation.  
@@ -75,7 +75,7 @@ Handled __network infrastructure, routers, switches, and user management__ for B
 National-Level Gold Medalist in rifle shooting, NCC Thal Sainik Competition Camp, Delhi (2005) and Best Cadet Award.  
 
 
-#### Education
+### Education
 >__PGDCA [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}__ with 62.16% in 2016  
 __Bachelor of Commerce [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}__ with 69.84% in 2013  
 <!---
@@ -86,7 +86,7 @@ __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10
 
 <!-- <div style="page-break-after: always;"></div> -->
 
-##### Additional Certifications
+#### Additional Certifications
 > <img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude 101__](https://verify.skilljar.com/c/ki6g7s6co2d9){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude Code 101__](https://verify.skilljar.com/c/zofgbbanxxfs){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/IBM-watsonx-Essentials.png"> [__IBM watsonx Essentials__](https://www.credly.com/badges/9dc58059-66af-4c0d-ae7a-9f84dd2bc402){:target="_blank"} |
