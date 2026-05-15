@@ -19,7 +19,7 @@ Created a digital knowledge base to simplify complex architectural concepts for 
 
 ### Professional Experience
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">| AWS DevSecOps Architect | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
-> __Security & Compliance:__ Led the remediation of critical vulnerabilities and legacy Java upgrades across the environment. By leveraging AI LLMs to assist with code refactoring, we dramatically reduced the time required to meet internal security compliance metrics.  
+> __Security & Compliance:__ Led the remediation of critical vulnerabilities and legacy Java upgrades across the environment. By leveraging AI LLMs to assist with code refactoring, dramatically reduced the time required to meet internal security compliance metrics.  
 __Cross-Project Technical Advisory:__ A consulting SME for external project teams across the organization. Guided their engineers through complex AWS deployments, Kubernetes security hardening, and Terraform best practices to help them resolve architectural roadblocks.  
 
 
