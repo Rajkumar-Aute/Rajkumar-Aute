@@ -20,7 +20,7 @@ Created a digital knowledge base to simplify complex architectural concepts for 
 ### Professional Experience
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">| AWS DevSecOps Architect | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > __Security & Compliance:__ Led the remediation of critical vulnerabilities and legacy Java upgrades across the environment. By leveraging AI LLMs to assist with code refactoring, we dramatically reduced the time required to meet internal security compliance metrics.  
-__Cross-Project Technical Advisory:__ Acted as a consulting SME for external project teams across the organization. Guided their engineers through complex AWS deployments, Kubernetes security hardening, and Terraform best practices to help them resolve architectural roadblocks.  
+__Cross-Project Technical Advisory:__ A consulting SME for external project teams across the organization. Guided their engineers through complex AWS deployments, Kubernetes security hardening, and Terraform best practices to help them resolve architectural roadblocks.  
 
 
 #### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">| DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
@@ -50,7 +50,7 @@ __CI/CD Automation:__ Automated the build and deployment lifecycles for Java and
 ### [_Wonderla_](http://www.wonderla.com){:target="_blank"} | [_IBM_](http://www.ibm.com){:target="_blank"} <font size="3"> Contracted via </font> [_3i Infotech_](http://www.3i-infotech.com){:target="_blank"} _<font size="2"> </font>_ <font size="1"></font>, [_Info Services_](http://ibmesp.com){:target="_blank"}, [_Kaizen IT Services_](https://www.linkedin.com/company/kaizen-it-services-pvt.-ltd./){:target="_blank"}
 > __Cloud & Database Provisioning:__ Assisted in the design and creation of early cloud infrastructures to host mission-critical billing systems and database servers.  
 __Infrastructure & Uptime Management:__ Administered a mixed environment of physical and virtual servers. Achieved and maintained a 98% service uptime for core billing applications hosted across VMware ESXi, Linux, and Windows ADDC environments.  
-__Network Operations:__ Managed core network infrastructure—including routers, switches, and secure user access protocols—to support highly regulated Banking and NBFC (Non-Banking Financial Company) clients.
+__Network Operations:__ Managed core network infrastructure including routers, switches, and secure user access protocols to support highly regulated Banking and NBFC (Non-Banking Financial Company) clients.
 
 ### Certifications
 > <img width="" height="14" src="./image/cert/cka.svg"> [__Certified Kubernetes Administrator (CKA)__](https://www.credly.com/badges/0dee1521-344c-4602-8f7a-a59983613b8b/public_url){:target="_blank"} | <img width="" height="14" src="./image/cert/cks.png"> __Certified Kubernetes Security Specialist (CKS)__ ___In Progress___    
