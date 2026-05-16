@@ -93,37 +93,3 @@ __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10
 <img width="" height="14" src="./image/cert/IBM_Garage_Essentials.png"> [__IBM Garage Essentials__](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/IBM-Agile-Explorer.png"> [__IBM Agile Explorer__](https://www.credly.com/badges/c3e6edb8-0874-4a87-8013-b8858b78f153){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/oracle.jpg"> [__Oracle Cloud Infrastructure__](https://www.credly.com/badges/93d0e186-5352-44bb-9d57-8400d5dd14aa){:target="_blank"}
-
-<!-- Load pdf-lib library -->
-<script src="https://unpkg.com"></script>
-
-<!-- HTML Button -->
-<button onclick="createEditablePDF()">p</button>
-
-<!-- JavaScript Logic -->
-<script>
-async function createEditablePDF() {
-    const pdfDoc = await PDFLib.PDFDocument.create();
-    const page = pdfDoc.addPage([600, 400]); // Width, Height
-    
-    const form = pdfDoc.getForm();
-    
-    page.drawText('Enter your notes below:', { x: 50, y: 330, size: 18 });
-    
-    const textField = form.createTextField('user.notes');
-    textField.setText('Click here to type...');
-    textField.addToPage(page, { x: 50, y: 100, width: 500, height: 200 });
-    
-    const today = new Date().toISOString().split('T')[0];
-    
-    // 6. Serialize the PDF to bytes
-    const pdfBytes = await pdfDoc.save();
-    
-    // 7. Trigger an instant browser download
-    const blob = new Blob([pdfBytes], { type: "application/pdf" });
-    const link = document.createElement('a');
-    link.href = URL.createObjectURL(blob);
-    link.download = `Editable_Document_${today}.pdf`;
-    link.click();
-}
-</script>
