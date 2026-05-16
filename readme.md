@@ -1,10 +1,3 @@
-<style>
-  body {
-    font-size: 0.4em; /* Decrease as needed */
-  }
-</style>
-
-<!--- <abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Cloud based Kubernetes, EKS)</font> --->
 <img width="" height="10" src="./image/other/call.gif"> [9945571886](https://wa.me/+919945571886){:target="_blank"} |
 <img width="" height="10" src="./image/other/email.gif"> [RajkumarAute@Gmail.com](mailto:Rajkumar.Aute@gmail.com){:target="_blank"} |
 <img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/India){:target="_blank"} |
@@ -13,8 +6,7 @@
 
 ####  AWS DevSecOps Architect | Kubernetes Platform Engineering | Terraform | CI/CD | Cyber Security
 >__Kubernetes Platform and DevSecOps Architect__ with __14+ years of experience__ designing secure, scalable cloud ecosystems. Expert in orchestrating __enterprise-grade Kubernetes__ clusters (__EKS__, AKS), automating CI/CD (GitHub Actions/Jenkins) with _GitOps principles_ (ArgoCD), and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.  
-
----
+___
 
 ### Technical Skills
 > __Cloud & Platform Engineering:__ __AWS__ (EKS, ECS, EC2, IAM, S3, RDS, VPC, ELB, AutoScaling, CloudFront, Route53 etc.), __Azure__ (AKS), __Kubernetes__, Ingress, Gateway API, IRSA, Pod Identity, External Secrets Operator, Helm, Kustomize, __Terraform__, Terragrunt (IaC), __ArgoCD__ (GitOps).  
@@ -24,14 +16,12 @@ __Core Competencies:__ Secure-SDLC, Threat Modeling, Compliance-as-Code, FinOps 
 <!---### Technical Leadership & Community [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Author. 
 > Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, and Cloud Security.  
 Created a digital knowledge base to simplify complex architectural concepts for the engineering community.  --->
-
----
+___
 
 ### Professional Experience
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">| AWS DevSecOps Architect | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > __Security & Compliance:__ Led the remediation of critical vulnerabilities and legacy Java upgrades across the environment. By leveraging AI LLMs to assist with code refactoring, dramatically reduced the time required to meet internal security compliance metrics.  
 __Cross-Project Technical Advisory:__ A consulting SME for external project teams across the organization. Guided their engineers through complex AWS deployments, Kubernetes security hardening, and Terraform best practices to help them resolve architectural roadblocks.  
-
 
 #### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">| DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
 > __Cloud Architecture & FinOps:__ Designed highly available, scalable cloud architectures while proactively analyzing and optimizing infrastructure setups to eliminate wasted cloud spend.  
@@ -61,8 +51,7 @@ __CI/CD Automation:__ Automated the build and deployment lifecycles for Java and
 > __Cloud & Database Provisioning:__ Assisted in the design and creation of early cloud infrastructures to host mission-critical billing systems and database servers.  
 __Infrastructure & Uptime Management:__ Administered a mixed environment of physical and virtual servers. Achieved and maintained a 98% service uptime for core billing applications hosted across VMware ESXi, Linux, and Windows ADDC environments.  
 __Network Operations:__ Managed core network infrastructure including routers, switches, and secure user access protocols to support highly regulated Banking and NBFC (Non-Banking Financial Company) clients.
-
----
+___
 
 ### Certifications
 > <img width="" height="14" src="./image/cert/cka.svg"> [__Certified Kubernetes Administrator (CKA)__](https://www.credly.com/badges/0dee1521-344c-4602-8f7a-a59983613b8b/public_url){:target="_blank"} | <img width="" height="14" src="./image/cert/cks.png"> __Certified Kubernetes Security Specialist (CKS)__ ___In Progress___    
@@ -74,7 +63,7 @@ __Network Operations:__ Managed core network infrastructure including routers, s
 <img width="" height="14" src="./image/cert/redhat.png"> [__Red Hat Certified Engineer__](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}  
 [__List of other Certifications__](https://www.credly.com/users/rajkumar-aute/){:target="_blank"}  
 
----
+___
 
 ### Honors & Awards
 >[IBM](https://www.ibm.com)  ~ _Awarded 5x Star and 1x Super Star_; received client appreciation for exceptional production deployment and automation.  
@@ -82,8 +71,7 @@ __Network Operations:__ Managed core network infrastructure including routers, s
 [WHL](http://www.wonderla.com) ~ Commended by the VP of IT for successfully implementing infrastructure automation.  
 [3i Infotech](http://www.3i-infotech.com) ~ Appreciated by the clients for implementing best practices in IT service.  
 National-Level Gold Medalist in rifle shooting, NCC Thal Sainik Competition Camp, Delhi (2005) and Best Cadet Award.  
-
----
+___
 
 ### Education
 >__PGDCA [Gulbarga University](https://www.gug.ac.in/){:target="_blank"}__ <!--with 62.16% in 2016 -->  
