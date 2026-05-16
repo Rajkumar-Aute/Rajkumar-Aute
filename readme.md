@@ -4,10 +4,14 @@
 <img width="" height="10" src="./image/other/location.gif"> [Bangalore](https://en.wikipedia.org/wiki/India){:target="_blank"} |
 <img width="" height="12" src="./image/other/linkedin.png"> [Linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
 <img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
+
 ---
+
 ####  AWS DevSecOps Architect | Kubernetes Platform Engineering | Terraform | CI/CD | Cyber Security
 >__Kubernetes Platform and DevSecOps Architect__ with __14+ years of experience__ designing secure, scalable cloud ecosystems. Expert in orchestrating __enterprise-grade Kubernetes__ clusters (__EKS__, AKS), automating CI/CD (GitHub Actions/Jenkins) with _GitOps principles_ (ArgoCD), and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.  
+
 ---
+
 ### Technical Skills
 > __Cloud & Platform Engineering:__ __AWS__ (EKS, ECS, EC2, IAM, S3, RDS, VPC, ELB, AutoScaling, CloudFront, Route53 etc.), __Azure__ (AKS), __Kubernetes__, Ingress, Gateway API, IRSA, Pod Identity, External Secrets Operator, Helm, Kustomize, __Terraform__, Terragrunt (IaC), __ArgoCD__ (GitOps).  
 __DevSecOps & CyberSecurity:__ GitHub Actions, GitHub Enterprise, Jenkins, __Shift-Left Security__, tfSec, Checkov, Fortify, SonarQube (SAST), Snyk, Wiz, Contrast Security (DAST), AWS Security Hub, GitHub Advanced Security.  
@@ -18,6 +22,7 @@ __Core Competencies:__ Secure-SDLC, Threat Modeling, Compliance-as-Code, FinOps 
 Created a digital knowledge base to simplify complex architectural concepts for the engineering community.  --->
 
 ---
+
 ### Professional Experience
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">| AWS DevSecOps Architect | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
 > __Security & Compliance:__ Led the remediation of critical vulnerabilities and legacy Java upgrades across the environment. By leveraging AI LLMs to assist with code refactoring, dramatically reduced the time required to meet internal security compliance metrics.  
@@ -52,6 +57,7 @@ __CI/CD Automation:__ Automated the build and deployment lifecycles for Java and
 > __Cloud & Database Provisioning:__ Assisted in the design and creation of early cloud infrastructures to host mission-critical billing systems and database servers.  
 __Infrastructure & Uptime Management:__ Administered a mixed environment of physical and virtual servers. Achieved and maintained a 98% service uptime for core billing applications hosted across VMware ESXi, Linux, and Windows ADDC environments.  
 __Network Operations:__ Managed core network infrastructure including routers, switches, and secure user access protocols to support highly regulated Banking and NBFC (Non-Banking Financial Company) clients.
+
 ---
 
 ### Certifications
@@ -63,6 +69,7 @@ __Network Operations:__ Managed core network infrastructure including routers, s
 <img width="" height="14" src="./image/cert/cybersecurity.png"> [__Ethical Hacking and Countermeasures Expert__](./image/cert/Rajkumar_Aute_EHCE_Certificate.pdf){:target="_blank"}   
 <img width="" height="14" src="./image/cert/redhat.png"> [__Red Hat Certified Engineer__](https://rhtapps.redhat.com/verify?certId=180-084-022){:target="_blank"}  
 [__List of other Certifications__](https://www.credly.com/users/rajkumar-aute/){:target="_blank"}  
+
 ---
 
 ### Honors & Awards
@@ -86,7 +93,7 @@ __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10
 
 
 <!-- <div style="page-break-after: always;"></div> -->
----
+
 #### Additional Certifications
 > <img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude 101__](https://verify.skilljar.com/c/ki6g7s6co2d9){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude Code 101__](https://verify.skilljar.com/c/zofgbbanxxfs){:target="_blank"} | 
