@@ -1,6 +1,6 @@
 <style>
   body {
-    font-size: 0.8em; /* Decrease as needed */
+    font-size: 0.6em; /* Decrease as needed */
   }
 </style>
 
