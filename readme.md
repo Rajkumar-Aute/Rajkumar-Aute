@@ -1,3 +1,9 @@
+<style>
+  body {
+    font-size: 0.8em; /* Decrease as needed */
+  }
+</style>
+
 <!--- <abbr title="click here for the most recent résumé. For more details on the specific area, click on the below hyperlinks.">[<font size="1">&uarr;&uarr; latest résumé | https://Rajkumar-Aute.github.io/Rajkumar-Aute </font>](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"}</abbr> <font size="0">(Looking for job in Hyderabad, on Cloud based Kubernetes, EKS)</font> --->
 <img width="" height="10" src="./image/other/call.gif"> [9945571886](https://wa.me/+919945571886){:target="_blank"} |
 <img width="" height="10" src="./image/other/email.gif"> [RajkumarAute@Gmail.com](mailto:Rajkumar.Aute@gmail.com){:target="_blank"} |
@@ -5,7 +11,6 @@
 <img width="" height="12" src="./image/other/linkedin.png"> [Linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
 <img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
-___
 ####  AWS DevSecOps Architect | Kubernetes Platform Engineering | Terraform | CI/CD | Cyber Security
 >__Kubernetes Platform and DevSecOps Architect__ with __14+ years of experience__ designing secure, scalable cloud ecosystems. Expert in orchestrating __enterprise-grade Kubernetes__ clusters (__EKS__, AKS), automating CI/CD (GitHub Actions/Jenkins) with _GitOps principles_ (ArgoCD), and embedding security-first principles into enterprise pipelines. Proven track record of reducing deployment latency by 75% and leading cloud modernization initiatives for Fortune 500 banking and tech clients.  
 
