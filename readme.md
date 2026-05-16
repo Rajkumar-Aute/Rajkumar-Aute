@@ -4,7 +4,7 @@
 <img width="" height="12" src="./image/other/linkedin.png"> [Linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
 <img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
-#### Kubernetes Platform Engineering |AWS DevSecOps | Terraform | CI/CD | Cyber Security
+#### Kubernetes Platform Engineering | AWS DevSecOps | Terraform | CI/CD | Cyber Security
 > __Kubernetes Platform and AWS DevSecOps Architect__ with __14+ years of experience__ designing secure, scalable cloud ecosystems. Expert in orchestrating enterprise-grade __Kubernetes clusters__ (AWS EKS, Azure AKS), automating CI/CD pipelines (__GitHub Actions__, Jenkins) using __GitOps principles__ (ArgoCD), and provisioning __Infrastructure as Code__ (Terraform). Proven track record of reducing deployment latency by 75%, enforcing Shift-Left security standards, and leading complex cloud modernization initiatives for highly regulated Fortune 500 banking and technology clients.  
 
 ___
@@ -28,7 +28,7 @@ __Cross-Project Technical Advisory:__ A consulting SME for external project team
 __Enterprise CI/CD Transformation:__ Spearheaded the migration of application and infrastructure pipelines from Jenkins to GitHub Actions. Built reusable workflows with parallel execution and caching that slashed build times from 20 minutes down to 3–5 minutes. Added strict production approval gates, and these workflows were subsequently adopted as the standard across other teams within the organization.  
 __EKS Platform Engineering & GitOps:__ Led a massive GitOps transformation by migrating hundreds of micro-apps to AWS EKS. Utilized Terraform and ArgoCD to establish fully automated, drift-proof deployments across multiple environments while managing cluster provisioning and seamless add-on upgrades with minimal downtime.  
 __Shift-Left Security Implementation:__ Engineered a strict DevSecOps posture by embedding Fortify (SAST) and Contrast Security (DAST) directly into deployment pipelines to block vulnerabilities before reaching production. Enforced IaC security standards using tfsec and Checkov.  
-__Production Operations__ Took solo responsibility for managing high-stakes production rollouts, ensuring rapid incident recovery and seamless operations.  
+__Production Operations:__ Took solo responsibility for managing high-stakes production rollouts, ensuring rapid incident recovery and seamless operations.  
 
 #### <img width="" height="14" src="./image/org/tcs.png"> [_TCS_](http://www.tcs.com){:target="_blank"} _<font size="2">| Cloud DevOps Engineer | Bangalore.</font>_ <font size="1">Dec 2020 - May 2022</font>  
 >__Cloud Migration:__ Led the large-scale migration of legacy applications from on-premises environments to AWS EKS. Provisioned secure, scalable infrastructure using Terraform and orchestrated deployments via Azure DevOps.  
@@ -80,10 +80,7 @@ __[Karnataka PUE Board Bangalore](https://pue.karnataka.gov.in){:target="_blank"
 __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10th / SSLC__ with 47.84% in 2005
 --->
 
-###### latest resume [https://Rajkumar-Aute.github.io/Rajkumar-Aute](https://Rajkumar-Aute.github.io/Rajkumar-Aute/){:target="_blank"} 
-
-
-<!-- <div style="page-break-after: always;"></div> -->
+<div style="page-break-after: always;"></div>
 
 #### Additional Certifications
 > <img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude 101__](https://verify.skilljar.com/c/ki6g7s6co2d9){:target="_blank"} | 
