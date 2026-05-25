@@ -4,19 +4,15 @@
 <img width="" height="12" src="./image/other/linkedin.png"> [Linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
 <img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
-#### Kubernetes Platform Engineering | AWS Architect | DevSecOps | Terraform | CI/CD
-> __AWS Cloud Architect, DevSecOps and Kubernetes Platform Engineer__ with __14+ years of experience__ designing secure, scalable cloud ecosystems. Expert in orchestrating __AWS Elastic Kubernetes Service clusters__, automating CI/CD pipelines (__GitHub Actions__, Jenkins) using __GitOps principles__ (ArgoCD), and provisioning __Infrastructure as Code__ (Terraform). Proven track record of reducing deployment latency by 75%, enforcing Shift-Left security standards, and leading complex cloud modernization initiatives for highly regulated Fortune 500 banking and technology clients.  
+#### AWS Architect | DevSecOps | Kubernetes Platform Engineering | Terraform | CI/CD
+> __14+ years of experience__ designing secure, scalable cloud ecosystems. Expert in orchestrating __AWS Elastic Kubernetes Service clusters__, automating CI/CD pipelines (__GitHub Actions__, Jenkins) using __GitOps principles__ (ArgoCD), and provisioning __Infrastructure as Code__ (Terraform). Proven track record of reducing deployment latency by 75%, enforcing Shift-Left security standards, and leading complex cloud modernization initiatives for highly regulated Fortune 500 banking and technology clients.  
 
 ___
 ### Technical Skills
 > __Cloud & Platform Engineering:__ AWS Well-Architected Framework, EKS, ECS, EC2, IAM, S3, RDS, VPC, ELB, AutoScaling, CloudFront, Route53 etc., Azure (AKS), __Kubernetes__, Ingress, Gateway API, IRSA, Pod Identity, External Secrets Operator, Helm, Kustomize, __Terraform__, Terragrunt (IaC), __ArgoCD__.  
-
 __DevSecOps & CyberSecurity:__ GitHub Actions, GitHub Enterprise, Jenkins, tfSec, Checkov, Fortify, SonarQube (SAST), Snyk, Wiz, Contrast Security (DAST), AWS Security Hub, GitHub Advanced Security and Learning Cyber Security.  
 __Scripting & Observability:__ Python (Operational Automation), Shell Scripting, Markdown, Prometheus, Grafana.  
 __Core Competencies:__ Secure-SDLC, Threat Modeling, Compliance-as-Code, FinOps (Cost Optimization), ITSM, Agile Scrum, Stakeholder Management.
-<!---### Technical Leadership & Community [DevSecOpsGuru.in](https://DevSecOpsGuru.in){:target="_blank"} | Founder & Author. 
-> Authoring a comprehensive technical repository for DevSecOps professionals, publishing detailed architectural guides on Cloud, Kubernetes, Terraform, and Cloud Security.  
-Created a digital knowledge base to simplify complex architectural concepts for the engineering community.  --->
 
 ___
 ### Professional Experience
