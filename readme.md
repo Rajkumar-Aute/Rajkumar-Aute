@@ -9,7 +9,7 @@
 
 ___
 ### Technical Skills
-> __Cloud & Platform Engineering:__ AWS Well-Architected Framework, EKS, ECS, EC2, IAM, S3, RDS, VPC, ELB, AutoScaling, CloudFront, Route53 etc., Azure (AKS), __Kubernetes__, Ingress, Gateway API, IRSA, Pod Identity, External Secrets Operator, Helm, Kustomize, __Terraform__, Terragrunt (IaC), __ArgoCD__.  
+> __Cloud & Platform Engineering:__ EKS, ECS, EC2, Lambda, Fargate, IAM, S3, RDS, VPC, ELB, AutoScaling, EBS, EFS, SSM, Secrets Manager, CloudFront, Route53, Certificate Manager, CloudWatch, CloudTrail, AWS Well-Architected Framework and AWS Landing Zone etc., Azure (AKS), __Kubernetes__, Ingress, Gateway API, IRSA, Pod Identity, External Secrets Operator, Helm, Kustomize, __Terraform__, Terragrunt (IaC), __ArgoCD__.  
 __DevSecOps & CyberSecurity:__ GitHub Actions, GitHub Enterprise, Jenkins, tfSec, Checkov, Fortify, SonarQube (SAST), Snyk, Wiz, Contrast Security (DAST), AWS Security Hub, GitHub Advanced Security and Learning Cyber Security.  
 __Scripting & Observability:__ Python (Operational Automation), Shell Scripting, Markdown, Prometheus, Grafana.  
 __Core Competencies:__ Secure-SDLC, Threat Modeling, Compliance-as-Code, FinOps (Cost Optimization), ITSM, Agile Scrum, Stakeholder Management.
