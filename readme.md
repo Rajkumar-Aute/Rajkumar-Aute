@@ -4,7 +4,7 @@
 <img width="" height="12" src="./image/other/linkedin.png"> [Linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
 <img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
-#### AWS Architect | DevSecOps | Kubernetes Platform Engineering | Terraform | CI/CD
+#### AWS Architect | DevSecOps | Kubernetes Platform Engineering | Terraform | CI/CD | Forward Deployed Engineering |
 > __14+ years of experience__ designing secure, scalable cloud ecosystems. Expert in orchestrating __AWS Elastic Kubernetes Service clusters__, automating CI/CD pipelines (__GitHub Actions__, Jenkins) using __GitOps principles__ (ArgoCD), and provisioning __Infrastructure as Code__ (Terraform). Proven track record of reducing deployment latency by 75%, enforcing Shift-Left security standards, and leading complex cloud modernization initiatives for highly regulated Fortune 500 banking and technology clients.  
 
 ___
@@ -17,7 +17,8 @@ __Core Competencies:__ Secure-SDLC, Threat Modeling, Compliance-as-Code, FinOps 
 ___
 ### Professional Experience
 ### <img width="" height="14" src="./image/org/mphasis.png"> [_Mphasis_](https://www.mphasis.com/){:target="_blank"} _<font size="2">| AWS DevSecOps Architect | Bangalore.</font>_ <font size="1">Jan 2025 - Present</font>
-> __Security & Compliance:__ Led the remediation of critical vulnerabilities and legacy Java upgrades across the environment. By leveraging AI LLMs to assist with code refactoring, dramatically reduced the time required to meet internal security compliance metrics.  
+> __Forward Deployed Engineering:__ Deploying Mphasis NeoIP applications and code modernization AI tools on Managed Kubernetes clusters for clients. Collaborating with cross-functional teams to design and implement secure, scalable, and highly available private and public cloud environments.  
+__Security & Compliance:__ Led the remediation of critical vulnerabilities and legacy Java upgrades across the environment. By leveraging AI LLMs to assist with code refactoring, dramatically reduced the time required to meet internal security compliance metrics.  
 __Cross-Project Technical Advisory:__ A consulting SME for external project teams across the organization. Guided their engineers through complex AWS deployments, Kubernetes security hardening, and Terraform best practices to help them resolve architectural roadblocks.  
 
 #### <img width="" height="14" src="./image/org/ibm.png"> [_IBM_](https://www.ibm.com){:target="_blank"} _<font size="2">| DevSecOps Automation Engineer | Bangalore.</font>_ <font size="1">May 2022 - Dec 2024</font>
