@@ -4,7 +4,7 @@
 <img width="" height="12" src="./image/other/linkedin.png"> [Linkedin](https://www.linkedin.com/in/RajkumarAute/){:target="_blank"} | 
 <img width="" height="12" src="./image/other/github.jpg"> [GitHub](https://github.com/Rajkumar-Aute){:target="_blank"}
 
-#### AWS Architect | DevSecOps | Kubernetes Platform Engineering | Terraform | CI/CD | Forward Deployed Engineering |
+#### AWS Architect | DevSecOps | Kubernetes Platform Engineering | Terraform | CI/CD |
 > __14+ years of experience__ designing secure, scalable cloud ecosystems. Expert in orchestrating __AWS Elastic Kubernetes Service clusters__, automating CI/CD pipelines (__GitHub Actions__, Jenkins) using __GitOps principles__ (ArgoCD), and provisioning __Infrastructure as Code__ (Terraform). Proven track record of reducing deployment latency by 75%, enforcing Shift-Left security standards, and leading complex cloud modernization initiatives for highly regulated Fortune 500 banking and technology clients.  
 
 ___
