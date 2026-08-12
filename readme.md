@@ -81,8 +81,8 @@ __[Karnataka Sec Edu Board](https://sslc.karnataka.gov.in/){:target="_blank"} 10
 <div style="page-break-after: always;"></div>
 
 #### Additional Certifications
-> <img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude 101__](https://verify.skilljar.com/c/ki6g7s6co2d9){:target="_blank"} | 
-<img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude Code 101__](https://verify.skilljar.com/c/zofgbbanxxfs){:target="_blank"} | 
+> <img width="" height="14" src="./image/cert/ai/databricks.png"> [__Generative AI Fundamentals__](https://credentials.databricks.com/8e8a8987-7f09-437a-be5d-9481a7d73b6e#acc.P0wdea7F){:target="_blank"} | 
+<img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude 101__](https://verify.skilljar.com/c/ki6g7s6co2d9){:target="_blank"} | <img width="" height="14" src="./image/cert/ai/anthropic-logo.svg"> [__Anthropic Claude Code 101__](https://verify.skilljar.com/c/zofgbbanxxfs){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/IBM-watsonx-Essentials.png"> [__IBM Watsonx AI Essentials__](https://www.credly.com/badges/9dc58059-66af-4c0d-ae7a-9f84dd2bc402){:target="_blank"} |
 <img width="" height="14" src="./image/cert/IBM-Security-Privacy-by-Design-Foundational.png"> [__Security and Privacy by Design Foundations__](https://www.credly.com/badges/9d566f46-fdc4-4c49-ab6b-270e54da0768){:target="_blank"} | 
 <img width="" height="14" src="./image/cert/IBM-enterprise-design-thinking-practitioner.png"> [__Enterprise Design Thinking Practitioner__](https://www.credly.com/badges/9f172c65-e442-43be-b2cb-d07f22c28395){:target="_blank"} | 
